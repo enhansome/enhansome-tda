@@ -1,0 +1,543 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Theory"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TdaToolbox",
+          "description": "Tools that may be applied to data science in general.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:49:40Z",
+            "owner": "merylldindin",
+            "repo": "topologyx",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RIVET",
+          "description": "Visualization and analysis of two-parameter persistent homology with a Python API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-29T11:06:37Z",
+            "owner": "rivetTDA",
+            "repo": "rivet",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hera",
+          "description": "Software for bottleneck and Wasserstein distances between persistence diagrams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-17T18:15:01Z",
+            "owner": "anigmetov",
+            "repo": "hera",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks and Libs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DIPHA",
+          "description": "Distributed persistent homology computation with MPI support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-05-25T17:24:17Z",
+            "owner": "DIPHA",
+            "repo": "dipha",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cubical Ripser",
+          "description": "Software for computing persistent homology of cubical complexes, especially useful for image and volume data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-12T23:24:40Z",
+            "owner": "shizuo-kaji",
+            "repo": "CubicalRipser",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ctl",
+          "description": "C++11 library for building neighborhood graphs and cellular complexes, computing persistent homology over finite fields, and running parallel algorithms for homology. Can be used with C++, Python, MATLAB, and R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-05-18T18:50:11Z",
+            "owner": "appliedtopology",
+            "repo": "ctl",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flagser",
+          "description": "Computes homology of directed flag complexes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-21T07:32:56Z",
+            "owner": "luetge",
+            "repo": "flagser",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHAT",
+          "description": "Persistent Homology Algorithm Toolbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-05-19T17:58:10Z",
+            "owner": "blazs",
+            "repo": "phat",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Eirene.jl",
+          "description": "For homological persistence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-01-28T20:25:03Z",
+            "owner": "henselman-petrusek",
+            "repo": "Eirene.jl",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ripserer.jl",
+          "description": "Flexible and efficient pure-Julia implementation of the Ripser algorithm for computing persistent homology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-29T12:13:53Z",
+            "owner": "mtsch",
+            "repo": "Ripserer.jl",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TDA.jl",
+          "description": "Provides persistence diagrams and barcodes, nerve, and Mapper tools for topological data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2021-01-08T03:29:22Z",
+            "owner": "wildart",
+            "repo": "TDA.jl",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PersistenceDiagrams.jl",
+          "description": "Types and utilities for working with persistence diagrams in Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-10-28T02:21:45Z",
+            "owner": "mtsch",
+            "repo": "PersistenceDiagrams.jl",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TDAmapper.jl",
+          "description": "Mapper algorithm tools for Julia.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "ToMATo.jl",
+          "description": "ToMATo clustering in Julia.",
+          "children": []
+        }
+      ],
+      "title": "Julia"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KeplerMapper",
+          "description": "TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T18:06:02Z",
+            "owner": "scikit-tda",
+            "repo": "kepler-mapper",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TopologyLayer",
+          "description": "PyTorch-compatible persistent homology layers and featurization tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-22T22:02:08Z",
+            "owner": "bruel-gabrielsson",
+            "repo": "TopologyLayer",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoguTDA",
+          "description": "Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T02:28:58Z",
+            "owner": "stephenhky",
+            "repo": "MoguTDA",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTDA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-25T05:01:17Z",
+            "owner": "outlace",
+            "repo": "OpenTDA",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapper Implementation",
+          "description": "Topological data analysis for high-dimensional dataset exploration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-16T05:31:40Z",
+            "owner": "ksanjeevan",
+            "repo": "mapper-tda",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScTDA",
+          "description": "Tools for preprocessing, analysis, and exploration of single-cell RNA-seq data based on topological representations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-12T20:00:42Z",
+            "owner": "CamaraLab",
+            "repo": "scTDA",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knotter",
+          "description": "Implementation of the Mapper algorithm for TDA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-06T23:53:30Z",
+            "owner": "rosinality",
+            "repo": "knotter",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torch-tda",
+          "description": "Automatic differentiation utilities for topological data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-28T22:59:42Z",
+            "owner": "CompTop",
+            "repo": "torch-tda",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyflagser",
+          "description": "Python API for Flagser, computing homology of directed flag complexes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-30T08:01:35Z",
+            "owner": "giotto-ai",
+            "repo": "pyflagser",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qsv",
+          "description": "Data structure visualizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-10-24T14:05:42Z",
+            "owner": "RottenFruits",
+            "repo": "qsv",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quaternion-monoid-algebra",
+          "description": "Compositional monoid algebra over quaternion state packets, with machine-checked proofs that composing a configuration with a common element preserves persistence diagrams exactly; validated on TUM RGB-D and EuRoC MAV pose streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T15:05:38Z",
+            "owner": "consigcody94",
+            "repo": "quaternion-monoid-algebra",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TopoDrift",
+          "description": "Open benchmark for topological drift detection: evaluates persistent homology against KS/MMD/PSI on 7 regime types invisible to classical statistics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-21T09:24:46Z",
+            "owner": "FranzuBaren",
+            "repo": "TopoDrift",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TDAmapper",
+          "description": "R package for using discrete Morse theory to analyze a dataset with the Mapper algorithm described in Singh, Mémoli, and Carlsson (2007).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-08T00:06:24Z",
+            "owner": "paultpearson",
+            "repo": "TDAmapper",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TDAstats",
+          "description": "Computing persistent homology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-02-26T14:22:19Z",
+            "owner": "tdaverse",
+            "repo": "TDAstats",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggtda",
+          "description": "layers for visualizing constructions and statistics from topological data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-03-09T19:40:50Z",
+            "owner": "tdaverse",
+            "repo": "ggtda",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tdaverse",
+          "description": "Collection of R packages for topological data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-16T17:51:02Z",
+            "owner": "tdaverse",
+            "repo": "tdaverse",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ripserr",
+          "description": "R interface to Ripser and Cubical Ripser for persistent homology of point-cloud, image, and volume data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-06T20:46:30Z",
+            "owner": "tdaverse",
+            "repo": "ripserr",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "R"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spark TDA",
+          "description": "Scalable topological data analysis package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2018-07-08T05:41:48Z",
+            "owner": "ognis1205",
+            "repo": "spark-tda",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spark Mapper",
+          "description": "Estimating a lower-dimensional simplicial complex from a dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2017-05-16T16:56:25Z",
+            "owner": "paul-english",
+            "repo": "spark-mapper",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Spark"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Useful Links"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Guide to Data Science from mathematics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-19T19:54:31Z",
+            "owner": "Hulalazz",
+            "repo": "A-_Guide_-to_Data_Sciecne_from_mathematics",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AwesomeTDA4NLP",
+          "description": "Resources for topological data analysis in NLP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-25T10:44:09Z",
+            "owner": "AdaUchendu",
+            "repo": "AwesomeTDA4NLP",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Theory and Applications of TDA"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:50.805Z",
+    "original_repository": "FatemehTarashi/awesome-tda",
+    "original_repository_sha": "ccc2c0203dabd645464212bc392164972ffb60b5",
+    "enhanced_repository": "enhansome/enhansome-tda",
+    "enhanced_repository_description": null,
+    "title": "Awesome TDA with stars"
+  }
+}
