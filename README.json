@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T00:54:57Z",
+            "last_commit": "2026-08-17T01:08:59Z",
             "owner": "merylldindin",
             "repo": "topologyx",
-            "stars": 150
+            "stars": 149
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-10T02:28:58Z",
             "owner": "stephenhky",
             "repo": "MoguTDA",
-            "stars": 123
+            "stars": 122
           }
         },
         {
@@ -533,7 +533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:24:43.316Z",
+    "last_updated": "2026-08-17T02:23:00.835Z",
     "original_repository": "FatemehTarashi/awesome-tda",
     "original_repository_sha": "ccc2c0203dabd645464212bc392164972ffb60b5",
     "enhanced_repository": "enhansome/enhansome-tda",
