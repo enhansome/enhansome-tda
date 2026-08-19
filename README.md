@@ -2,7 +2,7 @@
 
 A curated list of [Topological Data Analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) tools and resources.
 
-If you know of any other tools or resources, read the [Contribution Guidelines](https://github.com/FatemehTarashi/awesome-tda/blob/master/contributing.md) ⭐ 224 | 🐛 0 | 📅 2026-07-09 and feel free to fork/PR or open a new issue.
+If you know of any other tools or resources, read the [Contribution Guidelines](https://github.com/FatemehTarashi/awesome-tda/blob/master/contributing.md) ⭐ 225 | 🐛 0 | 📅 2026-07-09 and feel free to fork/PR or open a new issue.
 
 ## Contents
 
@@ -129,7 +129,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 149 | 🐛 12 | 🌐 Python | 📅 2026-08-17 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 149 | 🐛 12 | 🌐 Python | 📅 2026-08-19 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 6 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
