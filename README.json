@@ -12,7 +12,7 @@
             "archived": false,
             "id": 138686533,
             "language": "Python",
-            "last_commit": "2026-08-20T19:55:21Z",
+            "last_commit": "2026-08-22T17:42:04Z",
             "owner": "merylldindin",
             "repo": "topologyx",
             "stars": 149
@@ -244,7 +244,7 @@
                 "archived": false,
                 "id": 136944868,
                 "language": "Python",
-                "last_commit": "2026-08-10T02:28:58Z",
+                "last_commit": "2026-08-22T04:21:39Z",
                 "owner": "stephenhky",
                 "repo": "MoguTDA",
                 "stars": 121
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:18:40.603Z",
+    "last_updated": "2026-08-23T02:34:58.890Z",
     "original_repository": "FatemehTarashi/awesome-tda",
     "original_repository_id": 148160944,
     "original_repository_sha": "ccc2c0203dabd645464212bc392164972ffb60b5",
