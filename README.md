@@ -130,7 +130,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 ## Tools
 
 * [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 149 | 🐛 12 | 🌐 Python | 📅 2026-08-22 - Tools that may be applied to data science in general.
-* [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2024-08-29.
+* [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 6 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
 
@@ -274,7 +274,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 ### Theory and Applications of TDA
 
 * [A Guide to Data Science from mathematics](https://github.com/Hulalazz/A-_Guide_-to_Data_Sciecne_from_mathematics/blob/f42b92bb6a34f32d8c4e7afe98c9bdc889413688/TDA.md) ⭐ 67 | 🐛 0 | 🌐 HTML | 📅 2024-01-19
-* [AwesomeTDA4NLP](https://github.com/adauchendu/awesometda4nlp) ⭐ 33 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-25 - Resources for topological data analysis in NLP.
+* [AwesomeTDA4NLP](https://github.com/adauchendu/awesometda4nlp) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-25 - Resources for topological data analysis in NLP.
 * [A concrete application of Topological Data Analysis](https://towardsdatascience.com/a-concrete-application-of-topological-data-analysis-86b89aa27586)
 * [An Algebraic Geometry Perspective on Topological Data Analysis](https://sinews.siam.org/Details-Page/an-algebraic-geometry-perspective-on-topological-data-analysis)
 * [Topological Data Analysis - A Very Short Introduction](https://medium.com/@varad.deshmukh/topological-data-analysis-a-very-short-introduction-611d3238a0bd)
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
