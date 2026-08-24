@@ -2,7 +2,7 @@
 
 A curated list of [Topological Data Analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) tools and resources.
 
-If you know of any other tools or resources, read the [Contribution Guidelines](https://github.com/FatemehTarashi/awesome-tda/blob/master/contributing.md) ⭐ 225 | 🐛 0 | 📅 2026-07-09 and feel free to fork/PR or open a new issue.
+If you know of any other tools or resources, read the [Contribution Guidelines](https://github.com/FatemehTarashi/awesome-tda/blob/master/contributing.md) ⭐ 226 | 🐛 0 | 📅 2026-07-09 and feel free to fork/PR or open a new issue.
 
 ## Contents
 
@@ -56,8 +56,8 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 <!-- * Topological Domains in Mammalian Genomes Identified by Analysis of Chromatin Interactions -->
 
-* [Chunk](https://www.researchgate.net/publication/235766026_Clear_and_Compress_Computing_Persistent_Homology_in_Chunks)
 * [Mapper](http://diglib.eg.org/handle/10.2312/SPBG.SPBG07.091-100) ([brief summary](https://github.com/ognis1205/spark-tda/wiki/Mapper) ⭐ 46 | 🐛 2 | 🌐 Scala | 📅 2018-07-08)
+* [Chunk](https://www.researchgate.net/publication/235766026_Clear_and_Compress_Computing_Persistent_Homology_in_Chunks)
 * [PHrow](https://arxiv.org/pdf/1107.5665.pdf)
 * [Twist](https://www.researchgate.net/publication/228605960_Persistent_homology_computation_with_a_twist)
 * [Vineyards](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.114.5942\&rep=rep1\&type=pdf)
@@ -66,6 +66,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ### Books
 
+* :open\_book: [Topological Deep Learning](https://github.com/pyt-team/tdlbook) ⭐ 42 | 🐛 2 | 🌐 TeX | 📅 2025-11-10 - Michael T. Schaub, Yu Zhu, Jean-Baptiste Seby, T. Mitchell Roddenberry, Santiago Segarra.
 * [A Short Course in Computational Geometry and Topology](https://www.springer.com/gp/book/9783319059563) - Herbert Edelsbrunner.
 * [Computational Homology](https://www.amazon.com/dp/1441923543/) - Tomasz Kaczynski, Konstantin Mischaikow, Marian Mrozek.
 * :open\_book: [Computational Topology: An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf) - Herbert Edelsbrunner, John L. Harer.
@@ -78,7 +79,6 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [Topological Based Machine Learning Methods](https://escholarship.org/uc/item/4vr8963d) - Alex Georges.
 * [Topological Data Analysis for Genomics and Evolution](https://www.cambridge.org/core/books/topological-data-analysis-for-genomics-and-evolution/FCC8429FAD2B5D1525AEA47A8366D6EB) - Raul Rabadan, Andrew J. Blumberg.
 * [Topological Data Analysis for Scientific Visualization](https://www.springer.com/gp/book/9783319715063) - Julien Tierny.
-* :open\_book: [Topological Deep Learning](https://github.com/pyt-team/tdlbook) ⭐ 42 | 🐛 2 | 🌐 TeX | 📅 2025-11-10 - Michael T. Schaub, Yu Zhu, Jean-Baptiste Seby, T. Mitchell Roddenberry, Santiago Segarra.
 * :open\_book: [Topological Methods for 3D Point Cloud Processing](https://www-users.cse.umn.edu/~beksi001/publications/topological_methods_for_3d_point_cloud_processing.pdf) - William Joseph Beksi.
 * :open\_book: [Topology for Computing](https://api.pageplace.de/preview/DT0400.9780511081309_A23689237/preview-9780511081309_A23689237.pdf) - Afra J. Zomorodian.
 * [Topological Methods in Data Analysis and Visualization: Theory, Algorithms, and Applications](https://www.springer.com/gp/book/9783642150135)
@@ -129,7 +129,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 149 | 🐛 12 | 🌐 Python | 📅 2026-08-22 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 12 | 🌐 Python | 📅 2026-08-22 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 6 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.

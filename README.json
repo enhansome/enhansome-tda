@@ -4,6 +4,56 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mapper",
+              "description": "(brief summary)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125860501,
+                "language": "Scala",
+                "last_commit": "2018-07-08T05:41:48Z",
+                "owner": "ognis1205",
+                "repo": "spark-tda",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Algorithms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":open_book: Topological Deep Learning",
+              "description": "Michael T. Schaub, Yu Zhu, Jean-Baptiste Seby, T. Mitchell Roddenberry, Santiago Segarra.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 812383890,
+                "language": "TeX",
+                "last_commit": "2025-11-10T12:46:18Z",
+                "owner": "pyt-team",
+                "repo": "tdlbook",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        }
+      ],
+      "title": "Theory"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "TdaToolbox",
           "description": "Tools that may be applied to data science in general.",
@@ -15,7 +65,7 @@
             "last_commit": "2026-08-22T17:42:04Z",
             "owner": "merylldindin",
             "repo": "topologyx",
-            "stars": 149
+            "stars": 150
           }
         },
         {
@@ -140,6 +190,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TDA",
+              "description": "Some methods are provided for gridded data, such as images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195750655,
+                "language": "Go",
+                "last_commit": "2019-07-11T08:29:12Z",
+                "owner": "kshedden",
+                "repo": "tda",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaPlex",
+              "description": "The JavaPlex library implements persistent homology and related techniques. It is designed for ease of use from MATLAB and Java-based systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23523382,
+                "language": "Java",
+                "last_commit": "2019-12-22T14:24:26Z",
+                "owner": "appliedtopology",
+                "repo": "javaplex",
+                "stars": 209
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Eirene.jl",
               "description": "For homological persistence.",
               "children": [],
@@ -202,6 +296,28 @@
           "description": null,
           "node_type": "group",
           "title": "Julia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Clique Top",
+              "description": "Topological analysis of symmetric matrices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11640065,
+                "language": "C",
+                "last_commit": "2023-09-13T20:49:20Z",
+                "owner": "nebneuron",
+                "repo": "clique-top",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Matlab"
         },
         {
           "children": [
@@ -519,6 +635,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "List of Resources for Topological Data Analysis in Bioinformatics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199468744,
+                "language": null,
+                "last_commit": "2019-07-29T15:42:14Z",
+                "owner": "biobai",
+                "repo": "BioTDA",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bioinformatics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "A Guide to Data Science from mathematics",
               "description": null,
               "children": [],
@@ -557,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:25:46.361Z",
+    "last_updated": "2026-08-24T14:34:11.035Z",
     "original_repository": "FatemehTarashi/awesome-tda",
     "original_repository_id": 148160944,
     "original_repository_sha": "ccc2c0203dabd645464212bc392164972ffb60b5",
