@@ -62,7 +62,7 @@
             "archived": false,
             "id": 138686533,
             "language": "Python",
-            "last_commit": "2026-08-22T17:42:04Z",
+            "last_commit": "2026-08-26T23:54:38Z",
             "owner": "merylldindin",
             "repo": "topologyx",
             "stars": 150
@@ -682,7 +682,7 @@
                 "last_commit": "2026-06-25T10:44:09Z",
                 "owner": "AdaUchendu",
                 "repo": "AwesomeTDA4NLP",
-                "stars": 34
+                "stars": 35
               }
             }
           ],
@@ -695,9 +695,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:37:09.059Z",
-    "original_repository": "FatemehTarashi/awesome-tda",
-    "original_repository_id": 148160944,
+    "last_updated": "2026-08-27T11:08:20.565Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 148160944,
+      "language": null,
+      "last_commit": "2026-07-09T19:42:07Z",
+      "owner": "FatemehTarashi",
+      "repo": "awesome-tda",
+      "stars": 226
+    },
     "original_repository_sha": "ccc2c0203dabd645464212bc392164972ffb60b5",
     "enhanced_repository": "enhansome/enhansome-tda",
     "enhanced_repository_description": null,
