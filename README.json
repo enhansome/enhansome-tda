@@ -18,7 +18,8 @@
                 "owner": "ognis1205",
                 "repo": "spark-tda",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "pyt-team",
                 "repo": "tdlbook",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -62,11 +64,12 @@
             "archived": false,
             "id": 138686533,
             "language": "Python",
-            "last_commit": "2026-08-26T23:54:38Z",
+            "last_commit": "2026-08-27T19:10:37Z",
             "owner": "merylldindin",
             "repo": "topologyx",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T12:40:35.234Z"
         },
         {
           "node_type": "item",
@@ -81,7 +84,8 @@
             "owner": "rivetTDA",
             "repo": "rivet",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T12:40:35.234Z"
         },
         {
           "node_type": "item",
@@ -96,7 +100,8 @@
             "owner": "anigmetov",
             "repo": "hera",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T12:40:35.234Z"
         }
       ],
       "title": "Tools"
@@ -119,7 +124,8 @@
                 "owner": "DIPHA",
                 "repo": "dipha",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -134,7 +140,8 @@
                 "owner": "shizuo-kaji",
                 "repo": "CubicalRipser",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -149,7 +156,8 @@
                 "owner": "appliedtopology",
                 "repo": "ctl",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -164,7 +172,8 @@
                 "owner": "luetge",
                 "repo": "flagser",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -179,7 +188,8 @@
                 "owner": "blazs",
                 "repo": "phat",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -201,7 +211,8 @@
                 "owner": "kshedden",
                 "repo": "tda",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -223,7 +234,8 @@
                 "owner": "appliedtopology",
                 "repo": "javaplex",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -245,7 +257,8 @@
                 "owner": "henselman-petrusek",
                 "repo": "Eirene.jl",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -260,7 +273,8 @@
                 "owner": "mtsch",
                 "repo": "Ripserer.jl",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -275,7 +289,8 @@
                 "owner": "wildart",
                 "repo": "TDA.jl",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -290,7 +305,8 @@
                 "owner": "mtsch",
                 "repo": "PersistenceDiagrams.jl",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -312,7 +328,8 @@
                 "owner": "nebneuron",
                 "repo": "clique-top",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -334,7 +351,8 @@
                 "owner": "scikit-tda",
                 "repo": "kepler-mapper",
                 "stars": 653
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -349,7 +367,8 @@
                 "owner": "bruel-gabrielsson",
                 "repo": "TopologyLayer",
                 "stars": 430
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -364,7 +383,8 @@
                 "owner": "stephenhky",
                 "repo": "MoguTDA",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -379,7 +399,8 @@
                 "owner": "outlace",
                 "repo": "OpenTDA",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -394,7 +415,8 @@
                 "owner": "ksanjeevan",
                 "repo": "mapper-tda",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -409,7 +431,8 @@
                 "owner": "CamaraLab",
                 "repo": "scTDA",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -424,7 +447,8 @@
                 "owner": "rosinality",
                 "repo": "knotter",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -439,7 +463,8 @@
                 "owner": "CompTop",
                 "repo": "torch-tda",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -454,7 +479,8 @@
                 "owner": "giotto-ai",
                 "repo": "pyflagser",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -469,7 +495,8 @@
                 "owner": "RottenFruits",
                 "repo": "qsv",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -484,7 +511,8 @@
                 "owner": "consigcody94",
                 "repo": "quaternion-monoid-algebra",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -499,7 +527,8 @@
                 "owner": "FranzuBaren",
                 "repo": "TopoDrift",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -521,7 +550,8 @@
                 "owner": "paultpearson",
                 "repo": "TDAmapper",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -536,7 +566,8 @@
                 "owner": "tdaverse",
                 "repo": "TDAstats",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -551,7 +582,8 @@
                 "owner": "tdaverse",
                 "repo": "ggtda",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -566,7 +598,8 @@
                 "owner": "tdaverse",
                 "repo": "tdaverse",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -581,7 +614,8 @@
                 "owner": "tdaverse",
                 "repo": "ripserr",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -603,7 +637,8 @@
                 "owner": "ognis1205",
                 "repo": "spark-tda",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -618,7 +653,8 @@
                 "owner": "paul-english",
                 "repo": "spark-mapper",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -646,7 +682,8 @@
                 "owner": "biobai",
                 "repo": "BioTDA",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -668,7 +705,8 @@
                 "owner": "Hulalazz",
                 "repo": "A-_Guide_-to_Data_Sciecne_from_mathematics",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             },
             {
               "node_type": "item",
@@ -683,7 +721,8 @@
                 "owner": "AdaUchendu",
                 "repo": "AwesomeTDA4NLP",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
             }
           ],
           "description": null,
@@ -695,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:19.659Z",
+    "last_updated": "2026-08-28T12:40:35.234Z",
     "original_repository_info": {
       "archived": false,
       "id": 148160944,
