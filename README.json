@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SparkTDA is a package for Apache Spark providing Topological Data Analysis Functionalities.",
+                "homepage": null,
                 "id": 125860501,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2018-07-08T05:41:48Z",
+                "open_issues": 2,
                 "owner": "ognis1205",
                 "repo": "spark-tda",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "apache-spark",
+                  "machine-learning",
+                  "ml",
+                  "mllib",
+                  "spark",
+                  "tda",
+                  "topological-data-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -35,12 +48,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://tdlbook.org/",
                 "id": 812383890,
                 "language": "TeX",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-10T12:46:18Z",
+                "open_issues": 2,
                 "owner": "pyt-team",
                 "repo": "tdlbook",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -62,12 +80,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Topological Data Analysis Routines",
+            "homepage": "https://pypi.org/manage/project/topologyx",
             "id": 138686533,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:10:37Z",
+            "open_issues": 12,
             "owner": "merylldindin",
             "repo": "topologyx",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "betti-curves",
+              "gudhi",
+              "persistence-landscape",
+              "persistent-homology",
+              "python",
+              "simplex-algorithm",
+              "tomato-clustering",
+              "topology"
+            ]
           },
           "first_seen": "2026-08-28T12:40:35.234Z"
         },
@@ -78,12 +110,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RIVET is a tool for Topological Data Analysis, in particular two-parameter persistent homology.",
+            "homepage": null,
             "id": 86488368,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-29T11:06:37Z",
+            "open_issues": 48,
             "owner": "rivetTDA",
             "repo": "rivet",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "algebraic-topology",
+              "data-science",
+              "data-visualization",
+              "persistent-homology",
+              "topological-data-analysis"
+            ]
           },
           "first_seen": "2026-08-28T12:40:35.234Z"
         },
@@ -94,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 169555588,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-17T18:15:01Z",
+            "open_issues": 8,
             "owner": "anigmetov",
             "repo": "hera",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:35.234Z"
         }
@@ -118,12 +166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically exported from code.google.com/p/dipha",
+                "homepage": null,
                 "id": 48587025,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2017-05-25T17:24:17Z",
+                "open_issues": 2,
                 "owner": "DIPHA",
                 "repo": "dipha",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -134,12 +187,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persistent homology calculation for 1D (scalar time series), 2D (image), and 3D, 4D (voxel) arrays",
+                "homepage": null,
                 "id": 214946707,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-12T23:24:40Z",
+                "open_issues": 0,
                 "owner": "shizuo-kaji",
                 "repo": "CubicalRipser",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "cubical-complex",
+                  "persistent-homology",
+                  "tda",
+                  "topological-data-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -150,12 +213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast generic C++ library for applied and computational topology",
+                "homepage": null,
                 "id": 23200746,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-05-18T18:50:11Z",
+                "open_issues": 1,
                 "owner": "appliedtopology",
                 "repo": "ctl",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -166,12 +234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computing homology of directed flag complexes (based on https://github.com/Ripser/ripser). Online version: https://homepages.abdn.ac.uk/neurotopology/flagser.html",
+                "homepage": null,
                 "id": 143336548,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-04-21T07:32:56Z",
+                "open_issues": 3,
                 "owner": "luetge",
                 "repo": "flagser",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -182,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persistent Homology Algorithm Toolbox (PHAT).",
+                "homepage": "http://code.google.com/p/phat",
                 "id": 40289161,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2019-05-19T17:58:10Z",
+                "open_issues": 2,
                 "owner": "blazs",
                 "repo": "phat",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -205,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topological data analysis in Go (golang)",
+                "homepage": null,
                 "id": 195750655,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-07-11T08:29:12Z",
+                "open_issues": 0,
                 "owner": "kshedden",
                 "repo": "tda",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -228,12 +311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persistent Homology and Topological Data Analysis Library",
+                "homepage": null,
                 "id": 23523382,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-12-22T14:24:26Z",
+                "open_issues": 10,
                 "owner": "appliedtopology",
                 "repo": "javaplex",
-                "stars": 209
+                "stars": 209,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -251,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Julia library for homological persistence",
+                "homepage": null,
                 "id": 92801147,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-28T20:25:03Z",
+                "open_issues": 12,
                 "owner": "henselman-petrusek",
                 "repo": "Eirene.jl",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -267,12 +360,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexible and efficient persistent homology computation.",
+                "homepage": "https://mtsch.github.io/Ripserer.jl/dev/",
                 "id": 254291600,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-06-29T12:13:53Z",
+                "open_issues": 8,
                 "owner": "mtsch",
                 "repo": "Ripserer.jl",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "cohomology",
+                  "homology",
+                  "julia",
+                  "persistent-homology",
+                  "ripser",
+                  "tda",
+                  "topological-data-analysis",
+                  "topology"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -283,12 +390,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Julia package for topological data analysis",
+                "homepage": null,
                 "id": 164035566,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2021-01-08T03:29:22Z",
+                "open_issues": 2,
                 "owner": "wildart",
                 "repo": "TDA.jl",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "topological-data-analysis",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -299,12 +414,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persistence Diagrams in Julia",
+                "homepage": "https://mtsch.github.io/PersistenceDiagrams.jl/dev",
                 "id": 266457790,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2025-10-28T02:21:45Z",
+                "open_issues": 0,
                 "owner": "mtsch",
                 "repo": "PersistenceDiagrams.jl",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "bottleneck-distance",
+                  "persistence-diagrams",
+                  "persistent-homology",
+                  "wasserstein-distance"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -322,12 +447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topological data analysis tools for cross correlation matrices",
+                "homepage": null,
                 "id": 11640065,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-09-13T20:49:20Z",
+                "open_issues": 0,
                 "owner": "nebneuron",
                 "repo": "clique-top",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -345,12 +475,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kepler Mapper: A flexible Python implementation of the Mapper algorithm.",
+                "homepage": "https://kepler-mapper.scikit-tda.org",
                 "id": 41101861,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-02T18:06:02Z",
+                "open_issues": 29,
                 "owner": "scikit-tda",
                 "repo": "kepler-mapper",
-                "stars": 653
+                "stars": 653,
+                "topics": [
+                  "data-visualization",
+                  "hacktoberfest",
+                  "kepler-mapper",
+                  "mapper-algorithm",
+                  "python",
+                  "tda",
+                  "topological-data-analysis",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -361,12 +505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Topology Layer for Machine Learning : Persistent Homology + Features for PyTorch",
+                "homepage": null,
                 "id": 181117691,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-22T22:02:08Z",
+                "open_issues": 24,
                 "owner": "bruel-gabrielsson",
                 "repo": "TopologyLayer",
-                "stars": 430
+                "stars": 430,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -377,12 +526,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topological Data Analysis in Python: Simplicial Complex",
+                "homepage": "https://mogutda.readthedocs.io/",
                 "id": 136944868,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-22T04:21:39Z",
+                "open_issues": 0,
                 "owner": "stephenhky",
                 "repo": "MoguTDA",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "homology",
+                  "package",
+                  "python",
+                  "tda",
+                  "topological-data-analysis",
+                  "topology"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -393,12 +554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Python library for topological data analysis (TDA)",
+                "homepage": "http://outlace.com",
                 "id": 79065919,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2017-07-25T05:01:17Z",
+                "open_issues": 3,
                 "owner": "outlace",
                 "repo": "OpenTDA",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -409,12 +575,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mapper implementation (Topological Data Analysis) in Python",
+                "homepage": null,
                 "id": 85991851,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-07-16T05:31:40Z",
+                "open_issues": 1,
                 "owner": "ksanjeevan",
                 "repo": "mapper-tda",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "topological-data-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -425,12 +598,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An object oriented python library for topological data analysis of high-throughput single-cell RNA-seq data",
+                "homepage": null,
                 "id": 77115632,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-07-12T20:00:42Z",
+                "open_issues": 5,
                 "owner": "CamaraLab",
                 "repo": "scTDA",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "single-cell-rna-seq",
+                  "topological-data-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -441,12 +622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Mapper algorithm for Topological Data Analysis",
+                "homepage": null,
                 "id": 42882661,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-06T23:53:30Z",
+                "open_issues": 10,
                 "owner": "rosinality",
                 "repo": "knotter",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -457,12 +643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic differentiation through persistence diagrams with PyTorch",
+                "homepage": null,
                 "id": 398066839,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-28T22:59:42Z",
+                "open_issues": 0,
                 "owner": "CompTop",
                 "repo": "torch-tda",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -473,12 +664,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python bindings and API for the flagser C++ library (https://github.com/luetge/flagser).",
+                "homepage": null,
                 "id": 211834648,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-30T08:01:35Z",
+                "open_issues": 10,
                 "owner": "giotto-ai",
                 "repo": "pyflagser",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "algebraic-topology",
+                  "computational-topology",
+                  "persistent-homology",
+                  "topological-data-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -489,12 +690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This application is data structure visualizer by topological data analysis method.",
+                "homepage": null,
                 "id": 71049527,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-10-24T14:05:42Z",
+                "open_issues": 0,
                 "owner": "RottenFruits",
                 "repo": "qsv",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -505,12 +711,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compositional algebra over fixed-width quaternionic-symbolic state packets. A monoid (closed, associative, with two-sided identity) plus empirical topology preservation. MIT licensed.",
+                "homepage": "https://doi.org/10.5281/zenodo.20301069",
                 "id": 1243952950,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-02T15:05:38Z",
+                "open_issues": 0,
                 "owner": "consigcody94",
                 "repo": "quaternion-monoid-algebra",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "abstract-algebra",
+                  "audit-trail",
+                  "gpu",
+                  "monoid",
+                  "persistent-homology",
+                  "python",
+                  "quaternions",
+                  "research-software",
+                  "robotics",
+                  "state-estimation",
+                  "swarm-robotics",
+                  "topological-data-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -521,12 +745,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1187853860,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-21T09:24:46Z",
+                "open_issues": 0,
                 "owner": "FranzuBaren",
                 "repo": "TopoDrift",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -544,12 +773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(R package) Analyze High-Dimensional Data Using Discrete Morse Theory",
+                "homepage": null,
                 "id": 36535626,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-08T00:06:24Z",
+                "open_issues": 6,
                 "owner": "paultpearson",
                 "repo": "TDAmapper",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -560,12 +794,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R pipeline for computing persistent homology in topological data analysis. See https://doi.org/10.21105/joss.00860 for more details.",
+                "homepage": "https://tdaverse.github.io/TDAstats/",
                 "id": 130141540,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-26T14:22:19Z",
+                "open_issues": 4,
                 "owner": "tdaverse",
                 "repo": "TDAstats",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "cran",
+                  "data-science",
+                  "ggplot2",
+                  "homology",
+                  "homology-calculations",
+                  "homology-computation",
+                  "joss",
+                  "persistent-homology",
+                  "pipeline",
+                  "r",
+                  "r-package",
+                  "r-packages",
+                  "ripser",
+                  "tda",
+                  "topological-data-analysis",
+                  "topology",
+                  "topology-visualization",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -576,12 +834,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ggplot2 extension to visualize persistent homology",
+                "homepage": "https://tdaverse.github.io/ggtda/",
                 "id": 143955038,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-09T19:40:50Z",
+                "open_issues": 19,
                 "owner": "tdaverse",
                 "repo": "ggtda",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "ggplot-extension",
+                  "ggplot2",
+                  "persistence-data",
+                  "persistent-homology",
+                  "r",
+                  "rstats",
+                  "simplicial-complex",
+                  "tda",
+                  "tidyverse",
+                  "topological-data-analysis",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -592,12 +867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an R package collection for topological data analysis",
+                "homepage": null,
                 "id": 512224790,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-16T17:51:02Z",
+                "open_issues": 2,
                 "owner": "tdaverse",
                 "repo": "tdaverse",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -608,12 +888,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package porting Ripser-based persistent homology calculation engines from C++ via Rcpp. Currently ports Ripser (Vietoris-Rips complex) and Cubical Ripser (cubical complex).",
+                "homepage": "https://tdaverse.github.io/ripserr/",
                 "id": 121628627,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-06T20:46:30Z",
+                "open_issues": 20,
                 "owner": "tdaverse",
                 "repo": "ripserr",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "algebraic-topology",
+                  "cohomology",
+                  "cpp",
+                  "cubical-complex",
+                  "persistent-homology",
+                  "pixel",
+                  "point-cloud",
+                  "r",
+                  "r-language",
+                  "r-package",
+                  "r-programming",
+                  "rcpp",
+                  "rips-complex",
+                  "ripser",
+                  "simplicial-complex",
+                  "simplicial-homology",
+                  "topological-data-analysis",
+                  "topology",
+                  "vietoris-complex",
+                  "voxel"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -631,12 +937,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SparkTDA is a package for Apache Spark providing Topological Data Analysis Functionalities.",
+                "homepage": null,
                 "id": 125860501,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2018-07-08T05:41:48Z",
+                "open_issues": 2,
                 "owner": "ognis1205",
                 "repo": "spark-tda",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "apache-spark",
+                  "machine-learning",
+                  "ml",
+                  "mllib",
+                  "spark",
+                  "tda",
+                  "topological-data-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -647,12 +966,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spark based implementation of the Topological Mapper algorithm",
+                "homepage": "https://log0ymxm.github.io/spark-mapper/scaladoc-latest",
                 "id": 89885241,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2017-05-16T16:56:25Z",
+                "open_issues": 0,
                 "owner": "paul-english",
                 "repo": "spark-mapper",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "spark",
+                  "topological-data-analysis",
+                  "topology"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -676,12 +1004,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Resources for Topological Data Analysis in Bioinformatics and Artificial Intelligence",
+                "homepage": null,
                 "id": 199468744,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-07-29T15:42:14Z",
+                "open_issues": 0,
                 "owner": "biobai",
                 "repo": "BioTDA",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bioinformatics",
+                  "topological-data-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -699,12 +1035,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It is a blueprint to data science from the mathematics to algorithms. It is not completed.",
+                "homepage": null,
                 "id": 161996200,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-01-19T19:54:31Z",
+                "open_issues": 0,
                 "owner": "Hulalazz",
                 "repo": "A-_Guide_-to_Data_Sciecne_from_mathematics",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "admm",
+                  "anderson-acceleration",
+                  "computational-intelligence",
+                  "data-science",
+                  "deep-learning",
+                  "fixed-point-iteration",
+                  "gcn",
+                  "hodgerank",
+                  "inverse-bayesian-fomula",
+                  "learning2rank",
+                  "machine-learning",
+                  "model-compression",
+                  "numerical-optimization",
+                  "recommender-systems",
+                  "statistical-learning"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -715,12 +1072,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topological Data Analysis (TDA) for Natural Language Processing (NLP) Applications",
+                "homepage": null,
                 "id": 889048500,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-06-25T10:44:09Z",
+                "open_issues": 0,
                 "owner": "AdaUchendu",
                 "repo": "AwesomeTDA4NLP",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "computational-linguistics",
+                  "computational-topology",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "tda",
+                  "topological-data-analysis",
+                  "topological-machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             }
@@ -734,15 +1104,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:40:35.234Z",
+    "last_updated": "2026-08-29T04:49:05.667Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of topological data analysis (TDA) resources and links.",
+      "homepage": null,
       "id": 148160944,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-09T19:42:07Z",
+      "open_issues": 0,
       "owner": "FatemehTarashi",
       "repo": "awesome-tda",
-      "stars": 226
+      "stars": 226,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "machine-learning",
+        "tda",
+        "topological-data-analysis"
+      ]
     },
     "original_repository_sha": "ccc2c0203dabd645464212bc392164972ffb60b5",
     "enhanced_repository": "enhansome/enhansome-tda",
