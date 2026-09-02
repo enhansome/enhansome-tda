@@ -369,7 +369,7 @@
                 "open_issues": 8,
                 "owner": "mtsch",
                 "repo": "Ripserer.jl",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "cohomology",
                   "homology",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T06:12:25.289Z",
+    "last_updated": "2026-09-02T05:41:06.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
@@ -1116,7 +1116,7 @@
       "open_issues": 0,
       "owner": "FatemehTarashi",
       "repo": "awesome-tda",
-      "stars": 226,
+      "stars": 227,
       "topics": [
         "awesome",
         "awesome-list",

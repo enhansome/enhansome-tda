@@ -2,7 +2,7 @@
 
 A curated list of [Topological Data Analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) tools and resources.
 
-If you know of any other tools or resources, read the [Contribution Guidelines](https://github.com/FatemehTarashi/awesome-tda/blob/master/contributing.md) ⭐ 226 | 🐛 0 | 📅 2026-07-09 and feel free to fork/PR or open a new issue.
+If you know of any other tools or resources, read the [Contribution Guidelines](https://github.com/FatemehTarashi/awesome-tda/blob/master/contributing.md) ⭐ 227 | 🐛 0 | 📅 2026-07-09 and feel free to fork/PR or open a new issue.
 
 ## Contents
 
@@ -161,7 +161,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 ### Julia
 
 * [Eirene.jl](https://github.com/Eetion/Eirene.jl) ⭐ 131 | 🐛 12 | 🌐 Julia | 📅 2025-01-28 - For homological persistence.
-* [Ripserer.jl](https://github.com/mtsch/Ripserer.jl) ⭐ 81 | 🐛 8 | 🌐 Julia | 📅 2026-06-29 - Flexible and efficient pure-Julia implementation of the Ripser algorithm for computing persistent homology.
+* [Ripserer.jl](https://github.com/mtsch/Ripserer.jl) ⭐ 82 | 🐛 8 | 🌐 Julia | 📅 2026-06-29 - Flexible and efficient pure-Julia implementation of the Ripser algorithm for computing persistent homology.
 * [TDA.jl](https://github.com/wildart/TDA.jl) ⭐ 40 | 🐛 2 | 🌐 Julia | 📅 2021-01-08 - Provides persistence diagrams and barcodes, nerve, and Mapper tools for topological data analysis.
 * [PersistenceDiagrams.jl](https://github.com/mtsch/PersistenceDiagrams.jl) ⭐ 16 | 🐛 0 | 🌐 Julia | 📅 2025-10-28 - Types and utilities for working with persistence diagrams in Julia.
 * [JuliaTDA](https://github.com/JuliaTDA) - Organization collecting Julia packages for topological data analysis.
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
