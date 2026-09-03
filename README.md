@@ -129,7 +129,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 12 | 🌐 Python | 📅 2026-09-01 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 12 | 🌐 Python | 📅 2026-09-03 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 6 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
@@ -142,7 +142,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [Cubical Ripser](https://github.com/shizuo-kaji/CubicalRipser_3dim) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-07-12 - Software for computing persistent homology of cubical complexes, especially useful for image and volume data.
 * [Ctl](https://github.com/appliedtopology/ctl) ⭐ 62 | 🐛 1 | 🌐 C++ | 📅 2016-05-18 - C++11 library for building neighborhood graphs and cellular complexes, computing persistent homology over finite fields, and running parallel algorithms for homology. Can be used with C++, Python, MATLAB, and R.
 * [Flagser](https://github.com/luetge/flagser) ⭐ 42 | 🐛 3 | 🌐 C++ | 📅 2026-04-21 - Computes homology of directed flag complexes.
-* [PHAT](https://github.com/blazs/phat) ⭐ 38 | 🐛 2 | 🌐 C++ | 📅 2019-05-19 - Persistent Homology Algorithm Toolbox.
+* [PHAT](https://github.com/blazs/phat) ⭐ 39 | 🐛 2 | 🌐 C++ | 📅 2019-05-19 - Persistent Homology Algorithm Toolbox.
 * [Dionysus](http://mrzv.org/software/dionysus/) - Computing persistent (co)homology, including persistent cohomology, vineyards, and zigzag persistent homology algorithms.
 * [Topology ToolKit (TTK)](https://topology-tool-kit.github.io/) - Efficient and generic topological data analysis and visualization.
 
@@ -174,7 +174,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ### Python
 
-* [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 653 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
+* [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 654 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
 * [TopologyLayer](https://github.com/bruel-gabrielsson/TopologyLayer) ⭐ 430 | 🐛 24 | 🌐 Python | 📅 2024-02-22 - PyTorch-compatible persistent homology layers and featurization tools.
 * [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
 * [OpenTDA](https://github.com/outlace/OpenTDA) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2017-07-25
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

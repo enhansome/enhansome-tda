@@ -85,7 +85,7 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T01:07:14Z",
+            "last_commit": "2026-09-03T04:03:30Z",
             "open_issues": 12,
             "owner": "merylldindin",
             "repo": "topologyx",
@@ -264,7 +264,7 @@
                 "open_issues": 2,
                 "owner": "blazs",
                 "repo": "phat",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
@@ -484,7 +484,7 @@
                 "open_issues": 29,
                 "owner": "scikit-tda",
                 "repo": "kepler-mapper",
-                "stars": 653,
+                "stars": 654,
                 "topics": [
                   "data-visualization",
                   "hacktoberfest",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T05:41:06.355Z",
+    "last_updated": "2026-09-03T05:40:18.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
