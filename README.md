@@ -129,7 +129,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 12 | 🌐 Python | 📅 2026-09-03 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 12 | 🌐 Python | 📅 2026-09-04 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 6 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
@@ -174,7 +174,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ### Python
 
-* [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 654 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
+* [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 653 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
 * [TopologyLayer](https://github.com/bruel-gabrielsson/TopologyLayer) ⭐ 430 | 🐛 24 | 🌐 Python | 📅 2024-02-22 - PyTorch-compatible persistent homology layers and featurization tools.
 * [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
 * [OpenTDA](https://github.com/outlace/OpenTDA) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2017-07-25
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
