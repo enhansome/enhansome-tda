@@ -129,7 +129,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 4 | 🌐 Python | 📅 2026-09-07 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 4 | 🌐 Python | 📅 2026-09-10 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 6 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
@@ -139,7 +139,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 ### C++
 
 * [DIPHA](https://github.com/DIPHA/dipha) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2017-05-25 - Distributed persistent homology computation with MPI support.
-* [Cubical Ripser](https://github.com/shizuo-kaji/CubicalRipser_3dim) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-07-12 - Software for computing persistent homology of cubical complexes, especially useful for image and volume data.
+* [Cubical Ripser](https://github.com/shizuo-kaji/CubicalRipser_3dim) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-09-11 - Software for computing persistent homology of cubical complexes, especially useful for image and volume data.
 * [Ctl](https://github.com/appliedtopology/ctl) ⭐ 62 | 🐛 1 | 🌐 C++ | 📅 2016-05-18 - C++11 library for building neighborhood graphs and cellular complexes, computing persistent homology over finite fields, and running parallel algorithms for homology. Can be used with C++, Python, MATLAB, and R.
 * [Flagser](https://github.com/luetge/flagser) ⭐ 42 | 🐛 3 | 🌐 C++ | 📅 2026-04-21 - Computes homology of directed flag complexes.
 * [PHAT](https://github.com/blazs/phat) ⭐ 39 | 🐛 2 | 🌐 C++ | 📅 2019-05-19 - Persistent Homology Algorithm Toolbox.
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

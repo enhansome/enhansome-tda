@@ -85,7 +85,7 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T01:51:41Z",
+            "last_commit": "2026-09-10T21:51:59Z",
             "open_issues": 4,
             "owner": "merylldindin",
             "repo": "topologyx",
@@ -192,7 +192,7 @@
                 "id": 214946707,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-12T23:24:40Z",
+                "last_commit": "2026-09-11T04:14:03Z",
                 "open_issues": 0,
                 "owner": "shizuo-kaji",
                 "repo": "CubicalRipser",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T05:51:01.540Z",
+    "last_updated": "2026-09-11T05:50:30.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
