@@ -176,7 +176,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 * [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 653 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
 * [TopologyLayer](https://github.com/bruel-gabrielsson/TopologyLayer) ⭐ 430 | 🐛 24 | 🌐 Python | 📅 2024-02-22 - PyTorch-compatible persistent homology layers and featurization tools.
-* [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2026-09-07 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
+* [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
 * [OpenTDA](https://github.com/outlace/OpenTDA) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2017-07-25
 * [Mapper Implementation](https://github.com/ksanjeevan/mapper-tda) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2018-07-16 - Topological data analysis for high-dimensional dataset exploration.
 * [ScTDA](https://github.com/CamaraLab/scTDA) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2018-07-12 - Tools for preprocessing, analysis, and exploration of single-cell RNA-seq data based on topological representations.
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
