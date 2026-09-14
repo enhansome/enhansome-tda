@@ -85,8 +85,8 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T21:51:59Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-14T02:35:42Z",
+            "open_issues": 6,
             "owner": "merylldindin",
             "repo": "topologyx",
             "stars": 150,
@@ -1044,7 +1044,7 @@
                 "open_issues": 0,
                 "owner": "Hulalazz",
                 "repo": "A-_Guide_-to_Data_Sciecne_from_mathematics",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "admm",
                   "anderson-acceleration",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T05:58:37.138Z",
+    "last_updated": "2026-09-14T06:05:41.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
