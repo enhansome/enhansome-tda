@@ -800,7 +800,7 @@
                 "language": "R",
                 "license": "GPL-3.0",
                 "last_commit": "2026-02-26T14:22:19Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "tdaverse",
                 "repo": "TDAstats",
                 "stars": 41,
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:48:53.428Z",
+    "last_updated": "2026-09-19T05:43:55.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",

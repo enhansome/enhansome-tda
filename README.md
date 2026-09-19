@@ -201,7 +201,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 ### R
 
 * [TDAmapper](https://github.com/paultpearson/TDAmapper/) ⭐ 79 | 🐛 6 | 🌐 HTML | 📅 2024-08-08 - R package for using discrete Morse theory to analyze a dataset with the Mapper algorithm described in Singh, Mémoli, and Carlsson (2007).
-* [TDAstats](https://github.com/rrrlw/TDAstats) ⭐ 41 | 🐛 4 | 🌐 R | 📅 2026-02-26 - Computing persistent homology.
+* [TDAstats](https://github.com/rrrlw/TDAstats) ⭐ 41 | 🐛 5 | 🌐 R | 📅 2026-02-26 - Computing persistent homology.
 * [ggtda](https://github.com/tdaverse/ggtda) ⭐ 25 | 🐛 19 | 🌐 R | 📅 2026-03-09 - `ggplot2` layers for visualizing constructions and statistics from topological data analysis.
 * [tdaverse](https://github.com/tdaverse/tdaverse) ⭐ 17 | 🐛 2 | 📅 2026-04-16 - Collection of R packages for topological data analysis.
 * [ripserr](https://github.com/tdaverse/ripserr) ⭐ 12 | 🐛 20 | 🌐 C++ | 📅 2026-02-06 - R interface to Ripser and Cubical Ripser for persistent homology of point-cloud, image, and volume data.
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
