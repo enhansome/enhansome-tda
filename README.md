@@ -129,7 +129,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2026-09-21 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2026-09-22 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 6 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
@@ -176,7 +176,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 * [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 653 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
 * [TopologyLayer](https://github.com/bruel-gabrielsson/TopologyLayer) ⭐ 430 | 🐛 24 | 🌐 Python | 📅 2024-02-22 - PyTorch-compatible persistent homology layers and featurization tools.
-* [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
+* [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2026-09-22 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
 * [OpenTDA](https://github.com/outlace/OpenTDA) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2017-07-25
 * [Mapper Implementation](https://github.com/ksanjeevan/mapper-tda) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2018-07-16 - Topological data analysis for high-dimensional dataset exploration.
 * [ScTDA](https://github.com/CamaraLab/scTDA) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2018-07-12 - Tools for preprocessing, analysis, and exploration of single-cell RNA-seq data based on topological representations.
@@ -201,7 +201,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 ### R
 
 * [TDAmapper](https://github.com/paultpearson/TDAmapper/) ⭐ 79 | 🐛 6 | 🌐 HTML | 📅 2024-08-08 - R package for using discrete Morse theory to analyze a dataset with the Mapper algorithm described in Singh, Mémoli, and Carlsson (2007).
-* [TDAstats](https://github.com/rrrlw/TDAstats) ⭐ 41 | 🐛 5 | 🌐 R | 📅 2026-02-26 - Computing persistent homology.
+* [TDAstats](https://github.com/rrrlw/TDAstats) ⭐ 41 | 🐛 4 | 🌐 R | 📅 2026-09-21 - Computing persistent homology.
 * [ggtda](https://github.com/tdaverse/ggtda) ⭐ 25 | 🐛 19 | 🌐 R | 📅 2026-03-09 - `ggplot2` layers for visualizing constructions and statistics from topological data analysis.
 * [tdaverse](https://github.com/tdaverse/tdaverse) ⭐ 17 | 🐛 2 | 📅 2026-04-16 - Collection of R packages for topological data analysis.
 * [ripserr](https://github.com/tdaverse/ripserr) ⭐ 12 | 🐛 20 | 🌐 C++ | 📅 2026-02-06 - R interface to Ripser and Cubical Ripser for persistent homology of point-cloud, image, and volume data.
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
