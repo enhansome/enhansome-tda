@@ -85,7 +85,7 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T02:14:42Z",
+            "last_commit": "2026-09-22T10:48:15Z",
             "open_issues": 8,
             "owner": "merylldindin",
             "repo": "topologyx",
@@ -264,7 +264,7 @@
                 "open_issues": 2,
                 "owner": "blazs",
                 "repo": "phat",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:03:19.268Z",
+    "last_updated": "2026-09-23T05:50:50.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
