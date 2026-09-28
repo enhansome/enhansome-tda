@@ -129,7 +129,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2026-09-24 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 10 | 🌐 Python | 📅 2026-09-28 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 6 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
@@ -204,7 +204,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [TDAstats](https://github.com/rrrlw/TDAstats) ⭐ 41 | 🐛 4 | 🌐 R | 📅 2026-09-21 - Computing persistent homology.
 * [ggtda](https://github.com/tdaverse/ggtda) ⭐ 25 | 🐛 19 | 🌐 R | 📅 2026-03-09 - `ggplot2` layers for visualizing constructions and statistics from topological data analysis.
 * [tdaverse](https://github.com/tdaverse/tdaverse) ⭐ 17 | 🐛 2 | 📅 2026-04-16 - Collection of R packages for topological data analysis.
-* [ripserr](https://github.com/tdaverse/ripserr) ⭐ 12 | 🐛 20 | 🌐 C++ | 📅 2026-02-06 - R interface to Ripser and Cubical Ripser for persistent homology of point-cloud, image, and volume data.
+* [ripserr](https://github.com/tdaverse/ripserr) ⭐ 12 | 🐛 20 | 🌐 C++ | 📅 2026-09-28 - R interface to Ripser and Cubical Ripser for persistent homology of point-cloud, image, and volume data.
 * [phutil](https://tdaverse.github.io/phutil/) - Utilities and common data structures for persistence data analysis in R.
 * [TDA](https://cran.r-project.org/web/packages/TDA/) - Tools for statistical analysis of persistent homology and density clustering.
 * [TDAvec](https://cran.r-project.org/web/packages/TDAvec/) - Vector summaries of persistence diagrams for use in statistical and machine-learning workflows.
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
