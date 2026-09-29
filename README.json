@@ -893,7 +893,7 @@
                 "id": 121628627,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T02:02:54Z",
+                "last_commit": "2026-09-28T10:57:27Z",
                 "open_issues": 20,
                 "owner": "tdaverse",
                 "repo": "ripserr",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T06:40:55.662Z",
+    "last_updated": "2026-09-29T06:47:48.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
