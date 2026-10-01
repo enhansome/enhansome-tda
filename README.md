@@ -2,7 +2,7 @@
 
 A curated list of [Topological Data Analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) tools and resources.
 
-If you know of any other tools or resources, read the [Contribution Guidelines](https://github.com/FatemehTarashi/awesome-tda/blob/master/contributing.md) ⭐ 227 | 🐛 0 | 📅 2026-07-09 and feel free to fork/PR or open a new issue.
+If you know of any other tools or resources, read the [Contribution Guidelines](https://github.com/FatemehTarashi/awesome-tda/blob/master/contributing.md) ⭐ 228 | 🐛 0 | 📅 2026-07-09 and feel free to fork/PR or open a new issue.
 
 ## Contents
 
@@ -142,7 +142,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [Cubical Ripser](https://github.com/shizuo-kaji/CubicalRipser_3dim) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-09-11 - Software for computing persistent homology of cubical complexes, especially useful for image and volume data.
 * [Ctl](https://github.com/appliedtopology/ctl) ⭐ 62 | 🐛 1 | 🌐 C++ | 📅 2016-05-18 - C++11 library for building neighborhood graphs and cellular complexes, computing persistent homology over finite fields, and running parallel algorithms for homology. Can be used with C++, Python, MATLAB, and R.
 * [Flagser](https://github.com/luetge/flagser) ⭐ 42 | 🐛 3 | 🌐 C++ | 📅 2026-04-21 - Computes homology of directed flag complexes.
-* [PHAT](https://github.com/blazs/phat) ⭐ 40 | 🐛 2 | 🌐 C++ | 📅 2019-05-19 - Persistent Homology Algorithm Toolbox.
+* [PHAT](https://github.com/blazs/phat) ⭐ 39 | 🐛 2 | 🌐 C++ | 📅 2019-05-19 - Persistent Homology Algorithm Toolbox.
 * [Dionysus](http://mrzv.org/software/dionysus/) - Computing persistent (co)homology, including persistent cohomology, vineyards, and zigzag persistent homology algorithms.
 * [Topology ToolKit (TTK)](https://topology-tool-kit.github.io/) - Efficient and generic topological data analysis and visualization.
 
@@ -176,7 +176,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 * [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 653 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
 * [TopologyLayer](https://github.com/bruel-gabrielsson/TopologyLayer) ⭐ 430 | 🐛 24 | 🌐 Python | 📅 2024-02-22 - PyTorch-compatible persistent homology layers and featurization tools.
-* [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2026-09-22 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
+* [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2026-09-30 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
 * [OpenTDA](https://github.com/outlace/OpenTDA) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2017-07-25
 * [Mapper Implementation](https://github.com/ksanjeevan/mapper-tda) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2018-07-16 - Topological data analysis for high-dimensional dataset exploration.
 * [ScTDA](https://github.com/CamaraLab/scTDA) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2018-07-12 - Tools for preprocessing, analysis, and exploration of single-cell RNA-seq data based on topological representations.
@@ -200,7 +200,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ### R
 
-* [TDAmapper](https://github.com/paultpearson/TDAmapper/) ⭐ 79 | 🐛 6 | 🌐 HTML | 📅 2024-08-08 - R package for using discrete Morse theory to analyze a dataset with the Mapper algorithm described in Singh, Mémoli, and Carlsson (2007).
+* [TDAmapper](https://github.com/paultpearson/TDAmapper/) ⭐ 78 | 🐛 6 | 🌐 HTML | 📅 2024-08-08 - R package for using discrete Morse theory to analyze a dataset with the Mapper algorithm described in Singh, Mémoli, and Carlsson (2007).
 * [TDAstats](https://github.com/rrrlw/TDAstats) ⭐ 41 | 🐛 4 | 🌐 R | 📅 2026-09-21 - Computing persistent homology.
 * [ggtda](https://github.com/tdaverse/ggtda) ⭐ 25 | 🐛 19 | 🌐 R | 📅 2026-03-09 - `ggplot2` layers for visualizing constructions and statistics from topological data analysis.
 * [tdaverse](https://github.com/tdaverse/tdaverse) ⭐ 17 | 🐛 2 | 📅 2026-04-16 - Collection of R packages for topological data analysis.
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

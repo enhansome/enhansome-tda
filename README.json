@@ -264,7 +264,7 @@
                 "open_issues": 2,
                 "owner": "blazs",
                 "repo": "phat",
-                "stars": 40,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
@@ -531,7 +531,7 @@
                 "id": 136944868,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T04:48:02Z",
+                "last_commit": "2026-09-30T19:57:52Z",
                 "open_issues": 0,
                 "owner": "stephenhky",
                 "repo": "MoguTDA",
@@ -782,7 +782,7 @@
                 "open_issues": 6,
                 "owner": "paultpearson",
                 "repo": "TDAmapper",
-                "stars": 79,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T06:36:18.024Z",
+    "last_updated": "2026-10-01T07:08:09.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
@@ -1116,7 +1116,7 @@
       "open_issues": 0,
       "owner": "FatemehTarashi",
       "repo": "awesome-tda",
-      "stars": 227,
+      "stars": 228,
       "topics": [
         "awesome",
         "awesome-list",
