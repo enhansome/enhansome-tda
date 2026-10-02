@@ -129,9 +129,9 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 10 | 🌐 Python | 📅 2026-09-28 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 10 | 🌐 Python | 📅 2026-10-01 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
-* [Hera](https://github.com/anigmetov/hera) ⭐ 6 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
+* [Hera](https://github.com/anigmetov/hera) ⭐ 7 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
 
 ## Frameworks and Libs
@@ -184,7 +184,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [torch-tda](https://github.com/CompTop/torch-tda) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-05-28 - Automatic differentiation utilities for topological data analysis.
 * [pyflagser](https://github.com/giotto-ai/pyflagser) ⭐ 17 | 🐛 10 | 🌐 Python | 📅 2024-05-30 - Python API for Flagser, computing homology of directed flag complexes.
 * [Qsv](https://github.com/RottenFruits/qsv) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2016-10-24 - Data structure visualizer.
-* [quaternion-monoid-algebra](https://github.com/consigcody94/quaternion-monoid-algebra) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-02 - Compositional monoid algebra over quaternion state packets, with machine-checked proofs that composing a configuration with a common element preserves persistence diagrams exactly; validated on TUM RGB-D and EuRoC MAV pose streams.
+* [quaternion-monoid-algebra](https://github.com/consigcody94/quaternion-monoid-algebra) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-10-01 - Compositional monoid algebra over quaternion state packets, with machine-checked proofs that composing a configuration with a common element preserves persistence diagrams exactly; validated on TUM RGB-D and EuRoC MAV pose streams.
 * [TopoDrift](https://github.com/FranzuBaren/topodrift) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-21 - Open benchmark for topological drift detection: evaluates persistent homology against KS/MMD/PSI on 7 regime types invisible to classical statistics.
 * [GDA Public](https://geomdata.github.io/gda-public/) - Several fundamental tools by Geometric Data Analytics Inc. [geomdata](http://www.geomdata.com).
 * [giotto-ph](https://pypi.org/project/giotto-ph/) - High-performance persistent homology backend for Vietoris-Rips filtrations.
@@ -204,7 +204,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [TDAstats](https://github.com/rrrlw/TDAstats) ⭐ 41 | 🐛 4 | 🌐 R | 📅 2026-09-21 - Computing persistent homology.
 * [ggtda](https://github.com/tdaverse/ggtda) ⭐ 25 | 🐛 19 | 🌐 R | 📅 2026-03-09 - `ggplot2` layers for visualizing constructions and statistics from topological data analysis.
 * [tdaverse](https://github.com/tdaverse/tdaverse) ⭐ 17 | 🐛 2 | 📅 2026-04-16 - Collection of R packages for topological data analysis.
-* [ripserr](https://github.com/tdaverse/ripserr) ⭐ 12 | 🐛 20 | 🌐 C++ | 📅 2026-09-28 - R interface to Ripser and Cubical Ripser for persistent homology of point-cloud, image, and volume data.
+* [ripserr](https://github.com/tdaverse/ripserr) ⭐ 12 | 🐛 17 | 🌐 C++ | 📅 2026-10-01 - R interface to Ripser and Cubical Ripser for persistent homology of point-cloud, image, and volume data.
 * [phutil](https://tdaverse.github.io/phutil/) - Utilities and common data structures for persistence data analysis in R.
 * [TDA](https://cran.r-project.org/web/packages/TDA/) - Tools for statistical analysis of persistent homology and density clustering.
 * [TDAvec](https://cran.r-project.org/web/packages/TDAvec/) - Vector summaries of persistence diagrams for use in statistical and machine-learning workflows.
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
