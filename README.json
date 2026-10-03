@@ -550,7 +550,7 @@
             {
               "node_type": "item",
               "title": "OpenTDA",
-              "description": null,
+              "description": "outlace/OpenTDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1000,7 +1000,7 @@
             {
               "node_type": "item",
               "title": "List of Resources for Topological Data Analysis in Bioinformatics",
-              "description": null,
+              "description": "biobai/BioTDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1031,7 +1031,7 @@
             {
               "node_type": "item",
               "title": "A Guide to Data Science from mathematics",
-              "description": null,
+              "description": "Hulalazz/A-_Guide_-to_Data_Sciecne_from_mathematics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:56:39.782Z",
+    "last_updated": "2026-10-03T05:08:55.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",

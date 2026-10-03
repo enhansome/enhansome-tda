@@ -2,7 +2,7 @@
 
 A curated list of [Topological Data Analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) tools and resources.
 
-If you know of any other tools or resources, read the [Contribution Guidelines](https://github.com/FatemehTarashi/awesome-tda/blob/master/contributing.md) ⭐ 228 | 🐛 0 | 📅 2026-07-09 and feel free to fork/PR or open a new issue.
+If you know of any other tools or resources, read the [Contribution Guidelines](https://github.com/FatemehTarashi/awesome-tda/blob/master/contributing.md) and feel free to fork/PR or open a new issue.
 
 ## Contents
 
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
