@@ -85,7 +85,7 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T00:49:34Z",
+            "last_commit": "2026-10-07T10:07:59Z",
             "open_issues": 13,
             "owner": "merylldindin",
             "repo": "topologyx",
@@ -190,9 +190,9 @@
                 "description": "Persistent homology calculation for 1D (scalar time series), 2D (image), and 3D, 4D (voxel) arrays",
                 "homepage": null,
                 "id": 214946707,
-                "language": "C++",
+                "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T03:53:15Z",
+                "last_commit": "2026-10-08T05:49:51Z",
                 "open_issues": 0,
                 "owner": "shizuo-kaji",
                 "repo": "CubicalRipser",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:08:10.467Z",
+    "last_updated": "2026-10-08T07:15:34.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",

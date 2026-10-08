@@ -139,7 +139,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 ### C++
 
 * [DIPHA](https://github.com/DIPHA/dipha) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2017-05-25 - Distributed persistent homology computation with MPI support.
-* [Cubical Ripser](https://github.com/shizuo-kaji/CubicalRipser_3dim) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-10-05 - Software for computing persistent homology of cubical complexes, especially useful for image and volume data.
+* [Cubical Ripser](https://github.com/shizuo-kaji/CubicalRipser_3dim) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2026-10-08 - Software for computing persistent homology of cubical complexes, especially useful for image and volume data.
 * [Ctl](https://github.com/appliedtopology/ctl) ⭐ 62 | 🐛 1 | 🌐 C++ | 📅 2016-05-18 - C++11 library for building neighborhood graphs and cellular complexes, computing persistent homology over finite fields, and running parallel algorithms for homology. Can be used with C++, Python, MATLAB, and R.
 * [Flagser](https://github.com/luetge/flagser) ⭐ 42 | 🐛 3 | 🌐 C++ | 📅 2026-04-21 - Computes homology of directed flag complexes.
 * [PHAT](https://github.com/blazs/phat) ⭐ 39 | 🐛 2 | 🌐 C++ | 📅 2019-05-19 - Persistent Homology Algorithm Toolbox.
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
