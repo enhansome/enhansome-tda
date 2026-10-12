@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T07:02:53.283Z",
+    "last_updated": "2026-10-12T07:15:38.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
@@ -1116,7 +1116,7 @@
       "open_issues": 0,
       "owner": "FatemehTarashi",
       "repo": "awesome-tda",
-      "stars": 228,
+      "stars": 229,
       "topics": [
         "awesome",
         "awesome-list",
