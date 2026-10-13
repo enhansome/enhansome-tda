@@ -1081,7 +1081,7 @@
                 "open_issues": 0,
                 "owner": "AdaUchendu",
                 "repo": "AwesomeTDA4NLP",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "computational-linguistics",
                   "computational-topology",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T07:15:38.889Z",
+    "last_updated": "2026-10-13T07:37:52.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
