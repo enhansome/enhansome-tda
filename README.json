@@ -531,7 +531,7 @@
                 "id": 136944868,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-11T03:20:33Z",
+                "last_commit": "2026-10-14T19:10:56Z",
                 "open_issues": 0,
                 "owner": "stephenhky",
                 "repo": "MoguTDA",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:01:48.216Z",
+    "last_updated": "2026-10-15T05:48:28.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
