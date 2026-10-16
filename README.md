@@ -129,7 +129,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 13 | 🌐 Python | 📅 2026-10-14 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 13 | 🌐 Python | 📅 2026-10-15 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 7 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
@@ -184,7 +184,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [torch-tda](https://github.com/CompTop/torch-tda) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-05-28 - Automatic differentiation utilities for topological data analysis.
 * [pyflagser](https://github.com/giotto-ai/pyflagser) ⭐ 17 | 🐛 10 | 🌐 Python | 📅 2024-05-30 - Python API for Flagser, computing homology of directed flag complexes.
 * [Qsv](https://github.com/RottenFruits/qsv) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2016-10-24 - Data structure visualizer.
-* [quaternion-monoid-algebra](https://github.com/consigcody94/quaternion-monoid-algebra) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-10-01 - Compositional monoid algebra over quaternion state packets, with machine-checked proofs that composing a configuration with a common element preserves persistence diagrams exactly; validated on TUM RGB-D and EuRoC MAV pose streams.
+* [quaternion-monoid-algebra](https://github.com/consigcody94/quaternion-monoid-algebra) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-10-16 - Compositional monoid algebra over quaternion state packets, with machine-checked proofs that composing a configuration with a common element preserves persistence diagrams exactly; validated on TUM RGB-D and EuRoC MAV pose streams.
 * [TopoDrift](https://github.com/FranzuBaren/topodrift) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-21 - Open benchmark for topological drift detection: evaluates persistent homology against KS/MMD/PSI on 7 regime types invisible to classical statistics.
 * [GDA Public](https://geomdata.github.io/gda-public/) - Several fundamental tools by Geometric Data Analytics Inc. [geomdata](http://www.geomdata.com).
 * [giotto-ph](https://pypi.org/project/giotto-ph/) - High-performance persistent homology backend for Vietoris-Rips filtrations.
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

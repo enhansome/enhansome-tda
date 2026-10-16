@@ -85,7 +85,7 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T01:52:25Z",
+            "last_commit": "2026-10-15T16:10:14Z",
             "open_issues": 13,
             "owner": "merylldindin",
             "repo": "topologyx",
@@ -716,7 +716,7 @@
                 "id": 1243952950,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T23:34:15Z",
+                "last_commit": "2026-10-16T00:07:12Z",
                 "open_issues": 1,
                 "owner": "consigcody94",
                 "repo": "quaternion-monoid-algebra",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:48:28.605Z",
+    "last_updated": "2026-10-16T05:45:05.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
