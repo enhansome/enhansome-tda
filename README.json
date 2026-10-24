@@ -85,8 +85,8 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T21:34:25Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-23T23:45:54Z",
+            "open_issues": 15,
             "owner": "merylldindin",
             "repo": "topologyx",
             "stars": 150,
@@ -607,7 +607,7 @@
                 "open_issues": 5,
                 "owner": "CamaraLab",
                 "repo": "scTDA",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "single-cell-rna-seq",
                   "topological-data-analysis"
@@ -1081,7 +1081,7 @@
                 "open_issues": 0,
                 "owner": "AdaUchendu",
                 "repo": "AwesomeTDA4NLP",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "computational-linguistics",
                   "computational-topology",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T05:56:40.418Z",
+    "last_updated": "2026-10-24T05:41:04.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",

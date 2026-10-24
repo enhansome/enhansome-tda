@@ -129,7 +129,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 13 | 🌐 Python | 📅 2026-10-22 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 15 | 🌐 Python | 📅 2026-10-23 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 7 | 🐛 8 | 🌐 C++ | 📅 2026-04-17 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
@@ -179,7 +179,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2026-10-14 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
 * [OpenTDA](https://github.com/outlace/OpenTDA) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2017-07-25
 * [Mapper Implementation](https://github.com/ksanjeevan/mapper-tda) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2018-07-16 - Topological data analysis for high-dimensional dataset exploration.
-* [ScTDA](https://github.com/CamaraLab/scTDA) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2018-07-12 - Tools for preprocessing, analysis, and exploration of single-cell RNA-seq data based on topological representations.
+* [ScTDA](https://github.com/CamaraLab/scTDA) ⭐ 53 | 🐛 5 | 🌐 Python | 📅 2018-07-12 - Tools for preprocessing, analysis, and exploration of single-cell RNA-seq data based on topological representations.
 * [Knotter](https://github.com/rosinality/knotter) ⭐ 45 | 🐛 10 | 🌐 JavaScript | 📅 2020-06-06 - Implementation of the Mapper algorithm for TDA.
 * [torch-tda](https://github.com/CompTop/torch-tda) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-05-28 - Automatic differentiation utilities for topological data analysis.
 * [pyflagser](https://github.com/giotto-ai/pyflagser) ⭐ 17 | 🐛 10 | 🌐 Python | 📅 2024-05-30 - Python API for Flagser, computing homology of directed flag complexes.
@@ -274,7 +274,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 ### Theory and Applications of TDA
 
 * [A Guide to Data Science from mathematics](https://github.com/Hulalazz/A-_Guide_-to_Data_Sciecne_from_mathematics/blob/f42b92bb6a34f32d8c4e7afe98c9bdc889413688/TDA.md) ⭐ 68 | 🐛 0 | 🌐 HTML | 📅 2024-01-19
-* [AwesomeTDA4NLP](https://github.com/adauchendu/awesometda4nlp) ⭐ 36 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-25 - Resources for topological data analysis in NLP.
+* [AwesomeTDA4NLP](https://github.com/adauchendu/awesometda4nlp) ⭐ 37 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-25 - Resources for topological data analysis in NLP.
 * [A concrete application of Topological Data Analysis](https://towardsdatascience.com/a-concrete-application-of-topological-data-analysis-86b89aa27586)
 * [An Algebraic Geometry Perspective on Topological Data Analysis](https://sinews.siam.org/Details-Page/an-algebraic-geometry-perspective-on-topological-data-analysis)
 * [Topological Data Analysis - A Very Short Introduction](https://medium.com/@varad.deshmukh/topological-data-analysis-a-very-short-introduction-611d3238a0bd)
@@ -329,4 +329,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
