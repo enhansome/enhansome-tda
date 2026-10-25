@@ -85,7 +85,7 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T23:45:54Z",
+            "last_commit": "2026-10-24T08:35:28Z",
             "open_issues": 15,
             "owner": "merylldindin",
             "repo": "topologyx",
@@ -1081,7 +1081,7 @@
                 "open_issues": 0,
                 "owner": "AdaUchendu",
                 "repo": "AwesomeTDA4NLP",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "computational-linguistics",
                   "computational-topology",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:41:04.068Z",
+    "last_updated": "2026-10-25T05:56:45.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
