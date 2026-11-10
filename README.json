@@ -484,7 +484,7 @@
                 "open_issues": 29,
                 "owner": "scikit-tda",
                 "repo": "kepler-mapper",
-                "stars": 653,
+                "stars": 654,
                 "topics": [
                   "data-visualization",
                   "hacktoberfest",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:51:49.369Z",
+    "last_updated": "2026-11-10T08:17:14.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
