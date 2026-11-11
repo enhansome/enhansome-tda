@@ -514,7 +514,7 @@
                 "open_issues": 24,
                 "owner": "bruel-gabrielsson",
                 "repo": "TopologyLayer",
-                "stars": 430,
+                "stars": 431,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
@@ -803,7 +803,7 @@
                 "open_issues": 4,
                 "owner": "tdaverse",
                 "repo": "TDAstats",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "cran",
                   "data-science",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:17:14.793Z",
+    "last_updated": "2026-11-11T07:42:03.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
