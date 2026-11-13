@@ -369,7 +369,7 @@
                 "open_issues": 8,
                 "owner": "mtsch",
                 "repo": "Ripserer.jl",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "cohomology",
                   "homology",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T08:11:00.547Z",
+    "last_updated": "2026-11-13T07:48:29.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
