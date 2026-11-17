@@ -85,8 +85,8 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T02:12:25Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-17T05:52:16Z",
+            "open_issues": 4,
             "owner": "merylldindin",
             "repo": "topologyx",
             "stars": 150,
@@ -142,8 +142,8 @@
             "id": 169555588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-17T18:15:01Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-17T03:30:39Z",
+            "open_issues": 9,
             "owner": "anigmetov",
             "repo": "hera",
             "stars": 7,
@@ -1044,7 +1044,7 @@
                 "open_issues": 0,
                 "owner": "Hulalazz",
                 "repo": "A-_Guide_-to_Data_Sciecne_from_mathematics",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "admm",
                   "anderson-acceleration",
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T07:52:41.215Z",
+    "last_updated": "2026-11-17T09:03:35.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
