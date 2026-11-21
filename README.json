@@ -85,11 +85,11 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T05:47:18Z",
+            "last_commit": "2026-11-20T23:52:30Z",
             "open_issues": 3,
             "owner": "merylldindin",
             "repo": "topologyx",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "betti-curves",
               "gudhi",
@@ -161,6 +161,54 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ripser++",
+              "description": "GPU-accelerated computation of Vietoris-Rips persistent homology using CUDA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ripser++: GPU-accelerated computation of Vietoris–Rips persistence barcodes",
+                "homepage": null,
+                "id": 225261456,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2023-03-16T19:15:19Z",
+                "open_issues": 11,
+                "owner": "simonzhang00",
+                "repo": "ripser-plusplus",
+                "stars": 133,
+                "topics": []
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Aleph",
+              "description": "Versatile C++ library for persistent homology, intersection homology, and diverse scientific data formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A library for exploring persistent homology",
+                "homepage": "https://pseudomanifold.github.io/Aleph/",
+                "id": 75167983,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2025-07-16T14:53:47Z",
+                "open_issues": 5,
+                "owner": "Pseudomanifold",
+                "repo": "Aleph",
+                "stars": 108,
+                "topics": [
+                  "c-plus-plus-11",
+                  "machine-learning",
+                  "persistence",
+                  "persistent-homology",
+                  "topological-data-analysis"
+                ]
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
+            },
+            {
+              "node_type": "item",
               "title": "DIPHA",
               "description": "Distributed persistent homology computation with MPI support.",
               "children": [],
@@ -193,7 +241,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-01T12:59:06Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "shizuo-kaji",
                 "repo": "CubicalRipser",
                 "stars": 72,
@@ -432,6 +480,27 @@
                 ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GeometricDatasets.jl",
+              "description": "Generate canonical geometric benchmark datasets for TDA in Julia.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://juliatda.github.io/GeometricDatasets.jl/",
+                "id": 666272469,
+                "language": "Julia",
+                "license": "MIT",
+                "last_commit": "2023-09-13T05:22:57Z",
+                "open_issues": 2,
+                "owner": "JuliaTDA",
+                "repo": "GeometricDatasets.jl",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
             }
           ],
           "description": null,
@@ -518,6 +587,170 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TopoModelX",
+              "description": "A Python library for topological deep learning using PyTorch, supporting simplicial, cellular, and hypergraph neural networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Topological Deep Learning",
+                "homepage": "https://pyt-team.github.io/topomodelx/",
+                "id": 512943112,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-11-20T17:26:22Z",
+                "open_issues": 23,
+                "owner": "pyt-team",
+                "repo": "TopoModelX",
+                "stars": 350,
+                "topics": [
+                  "cell-complex-networks",
+                  "cell-complex-neural-networks",
+                  "cell-neural-networks",
+                  "cellular-message-passing",
+                  "cw-complex",
+                  "cw-networks",
+                  "cxn",
+                  "graph-neural-networks",
+                  "higher-order-message-passing",
+                  "higher-order-models",
+                  "higher-order-networks",
+                  "hypergraph-learning",
+                  "hypergraph-neural-networks",
+                  "simplicial-message-passing",
+                  "simplicial-neural-networks",
+                  "tensor-diagrams",
+                  "topological-data-analysis",
+                  "topological-deep-learning",
+                  "topological-message-passing",
+                  "topological-neural-networks"
+                ]
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TopoNetX",
+              "description": "A Python library for computing and machine learning on topological domains (simplicial complexes, cell complexes, and combinatorial complexes).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Computing on Topological Domains",
+                "homepage": "https://pyt-team.github.io/toponetx/",
+                "id": 523084160,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-11-20T17:07:21Z",
+                "open_issues": 17,
+                "owner": "pyt-team",
+                "repo": "TopoNetX",
+                "stars": 289,
+                "topics": [
+                  "cell-complex-neural-networks",
+                  "cell-complexes",
+                  "cellular-complex",
+                  "combinatorial-complex",
+                  "cw-complex",
+                  "cw-complex-networks",
+                  "cw-networks",
+                  "heterogeneous-hypergraph",
+                  "higher-order-message-passing",
+                  "higher-order-networks",
+                  "hypergraph-neural-networks",
+                  "simplicial-complex",
+                  "simplicial-neural-networks",
+                  "tensor-diagrams",
+                  "topological-data-analysis",
+                  "topological-deep-learning",
+                  "topological-learning",
+                  "topological-message-passing",
+                  "topological-neural-networks"
+                ]
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TopoBenchmarkX",
+              "description": "A modular benchmarking library for topological deep learning on graphs and higher-order topological domains.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TopoBench is a Python library designed to standardize benchmarking and accelerate research in Topological Deep Learning",
+                "homepage": "https://geometric-intelligence.github.io/topobench/",
+                "id": 725558542,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-19T15:37:40Z",
+                "open_issues": 124,
+                "owner": "geometric-intelligence",
+                "repo": "topobench",
+                "stars": 262,
+                "topics": [
+                  "cell-complex-neural-networks",
+                  "cell-complexes",
+                  "hypergraph-neural-networks",
+                  "simplicial-complex",
+                  "simplicial-neural-networks",
+                  "topological-data-bechmark",
+                  "topological-deep-learning",
+                  "topological-learning",
+                  "topological-neural-networks"
+                ]
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tda-mapper",
+              "description": "Scalable scikit-learn-compatible implementation of the Mapper algorithm with Plotly/PyVis visualizations and an interactive web app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A simple and efficient Python implementation of Mapper algorithm for Topological Data Analysis",
+                "homepage": "https://tda-mapper.readthedocs.io/en/main/",
+                "id": 545083679,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-22T12:57:09Z",
+                "open_issues": 10,
+                "owner": "lucasimi",
+                "repo": "tda-mapper-python",
+                "stars": 188,
+                "topics": [
+                  "mapper",
+                  "mapper-algorithm",
+                  "tda",
+                  "topological-data-analysis",
+                  "topological-machine-learning",
+                  "topology",
+                  "topology-visualization"
+                ]
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ripser++",
+              "description": "GPU-accelerated computation of Vietoris-Rips persistent homology using CUDA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ripser++: GPU-accelerated computation of Vietoris–Rips persistence barcodes",
+                "homepage": null,
+                "id": 225261456,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2023-03-16T19:15:19Z",
+                "open_issues": 11,
+                "owner": "simonzhang00",
+                "repo": "ripser-plusplus",
+                "stars": 133,
+                "topics": []
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
             },
             {
               "node_type": "item",
@@ -617,6 +850,67 @@
             },
             {
               "node_type": "item",
+              "title": "teaspoon",
+              "description": "Comprehensive Python library for Topological Signal Processing (TSP), time-series analysis via Takens' embedding, and persistence vectorization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Topological Signal Processing in Python",
+                "homepage": "https://teaspoontda.github.io/teaspoon/",
+                "id": 565268568,
+                "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-06T22:55:08Z",
+                "open_issues": 18,
+                "owner": "TeaspoonTDA",
+                "repo": "teaspoon",
+                "stars": 52,
+                "topics": [
+                  "persistent-homology",
+                  "persistent-homology-graphs",
+                  "python",
+                  "signal-processing",
+                  "tda",
+                  "tda-python",
+                  "topological-data-analysis",
+                  "topological-signal-processing"
+                ]
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
+            },
+            {
+              "node_type": "item",
+              "title": "multipers",
+              "description": "Scikit-learn-compatible Python library for multiparameter persistent homology with PyTorch autodiff support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python library for multiparameter persistence ",
+                "homepage": "https://davidlapous.github.io/multipers/",
+                "id": 438254685,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-11T21:10:11Z",
+                "open_issues": 12,
+                "owner": "DavidLapous",
+                "repo": "multipers",
+                "stars": 47,
+                "topics": [
+                  "cpp",
+                  "cython",
+                  "icml-2024",
+                  "multiparameter-persistence",
+                  "neurips-2023",
+                  "persistent-homology",
+                  "python",
+                  "tda",
+                  "topological-data-analysis"
+                ]
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
+            },
+            {
+              "node_type": "item",
               "title": "Knotter",
               "description": "Implementation of the Mapper algorithm for TDA.",
               "children": [],
@@ -635,6 +929,34 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cechmate",
+              "description": "Custom simplicial filtration constructors for Čech, Alpha, and Vietoris-Rips complexes in the Scikit-TDA ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Custom filtration constructors for Python",
+                "homepage": "http://cechmate.scikit-tda.org",
+                "id": 120667738,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-03-24T13:42:50Z",
+                "open_issues": 13,
+                "owner": "scikit-tda",
+                "repo": "cechmate",
+                "stars": 22,
+                "topics": [
+                  "custom-filtrations",
+                  "filtration",
+                  "persistence-diagrams",
+                  "persistent-homology",
+                  "phat",
+                  "tda"
+                ]
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
             },
             {
               "node_type": "item",
@@ -682,6 +1004,27 @@
                 ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BATS.py",
+              "description": "Python bindings for Basic Applied Topology Subprograms supporting zigzag homology and cell complexes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python bindings for the BATS library",
+                "homepage": null,
+                "id": 228758756,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2023-07-06T22:51:13Z",
+                "open_issues": 2,
+                "owner": "CompTop",
+                "repo": "BATS.py",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-11-21T08:11:59.362Z"
             },
             {
               "node_type": "item",
@@ -1104,7 +1447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T08:23:41.946Z",
+    "last_updated": "2026-11-21T08:11:59.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
@@ -1112,7 +1455,7 @@
       "id": 148160944,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-07-09T19:42:07Z",
+      "last_commit": "2026-11-20T11:33:51Z",
       "open_issues": 0,
       "owner": "FatemehTarashi",
       "repo": "awesome-tda",
@@ -1125,7 +1468,7 @@
         "topological-data-analysis"
       ]
     },
-    "original_repository_sha": "ccc2c0203dabd645464212bc392164972ffb60b5",
+    "original_repository_sha": "889cb54235477ead420af0832e1b80ad76d0e44f",
     "enhanced_repository": "enhansome/enhansome-tda",
     "enhanced_repository_description": null,
     "title": "Awesome TDA with stars"

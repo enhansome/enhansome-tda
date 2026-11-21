@@ -38,6 +38,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
   * [Use Python](#use-python)
   * [Use R](#use-r)
   * [Theory and Applications of TDA](#theory-and-applications-of-tda)
+  * [Journals and Communities](#journals-and-communities)
 * [Event](#event)
 
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
@@ -45,16 +46,6 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 ## Theory
 
 ### Algorithms
-
-<!-- * Morse-Smale complex -->
-
-<!-- * Persistent homology computation -->
-
-<!-- * Persistent cohomology computation -->
-
-<!-- * Reeb graph -->
-
-<!-- * Topological Domains in Mammalian Genomes Identified by Analysis of Chromatin Interactions -->
 
 * [Mapper](http://diglib.eg.org/handle/10.2312/SPBG.SPBG07.091-100) ([brief summary](https://github.com/ognis1205/spark-tda/wiki/Mapper) ⭐ 46 | 🐛 2 | 🌐 Scala | 📅 2018-07-08)
 * [Chunk](https://www.researchgate.net/publication/235766026_Clear_and_Compress_Computing_Persistent_Homology_in_Chunks)
@@ -126,20 +117,24 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [GUDHI Tutorials](https://gudhi.inria.fr/tutorials/) - Official tutorials for the GUDHI library.
 * [Scikit-TDA Tutorial](https://docs.scikit-tda.org/en/latest/notebooks/scikit-tda%20Tutorial.html) - Introductory tutorial for the Scikit-TDA ecosystem.
 * [Topological Data Analysis - A Python Tutorial](https://www.thekerneltrip.com/statistics/topological-data-analysis-tutorial/) - Introductory Python tutorial.
+* [Topological Machine Learning Lectures](https://www.youtube.com/@Pseudomanifold) - Video lecture series on topological machine learning by Bastian Rieck.
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 150 | 🐛 3 | 🌐 Python | 📅 2026-11-18 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 151 | 🐛 3 | 🌐 Python | 📅 2026-11-20 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 7 | 🐛 7 | 🌐 C++ | 📅 2026-11-19 - Software for bottleneck and Wasserstein distances between persistence diagrams.
+* [DONUT](https://donut.topology.rocks/) - Database of Original & Non-Theoretical Uses of Topology; a curated literature database of real-world applied topology.
 * [HomCloud](https://homcloud.dev/index.en.html) - Persistent homology software with a Python interface, used especially for scientific and materials-data analysis.
 
 ## Frameworks and Libs
 
 ### C++
 
+* [ripser++](https://github.com/simonzhang00/ripser-plusplus) ⭐ 133 | 🐛 11 | 🌐 C++ | 📅 2023-03-16 - GPU-accelerated computation of Vietoris-Rips persistent homology using CUDA.
+* [Aleph](https://github.com/Pseudomanifold/Aleph) ⭐ 108 | 🐛 5 | 🌐 C++ | 📅 2025-07-16 - Versatile C++ library for persistent homology, intersection homology, and diverse scientific data formats.
 * [DIPHA](https://github.com/DIPHA/dipha) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2017-05-25 - Distributed persistent homology computation with MPI support.
-* [Cubical Ripser](https://github.com/shizuo-kaji/CubicalRipser_3dim) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2026-11-01 - Software for computing persistent homology of cubical complexes, especially useful for image and volume data.
+* [Cubical Ripser](https://github.com/shizuo-kaji/CubicalRipser_3dim) ⭐ 72 | 🐛 1 | 🌐 C++ | 📅 2026-11-01 - Software for computing persistent homology of cubical complexes, especially useful for image and volume data.
 * [Ctl](https://github.com/appliedtopology/ctl) ⭐ 62 | 🐛 0 | 🌐 C++ | 📅 2016-05-18 - C++11 library for building neighborhood graphs and cellular complexes, computing persistent homology over finite fields, and running parallel algorithms for homology. Can be used with C++, Python, MATLAB, and R.
 * [Flagser](https://github.com/luetge/flagser) ⭐ 42 | 🐛 3 | 🌐 C++ | 📅 2026-04-21 - Computes homology of directed flag complexes.
 * [PHAT](https://github.com/blazs/phat) ⭐ 39 | 🐛 2 | 🌐 C++ | 📅 2019-05-19 - Persistent Homology Algorithm Toolbox.
@@ -164,6 +159,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [Ripserer.jl](https://github.com/mtsch/Ripserer.jl) ⭐ 83 | 🐛 8 | 🌐 Julia | 📅 2026-06-29 - Flexible and efficient pure-Julia implementation of the Ripser algorithm for computing persistent homology.
 * [TDA.jl](https://github.com/wildart/TDA.jl) ⭐ 40 | 🐛 2 | 🌐 Julia | 📅 2021-01-08 - Provides persistence diagrams and barcodes, nerve, and Mapper tools for topological data analysis.
 * [PersistenceDiagrams.jl](https://github.com/mtsch/PersistenceDiagrams.jl) ⭐ 16 | 🐛 0 | 🌐 Julia | 📅 2025-10-28 - Types and utilities for working with persistence diagrams in Julia.
+* [GeometricDatasets.jl](https://github.com/JuliaTDA/GeometricDatasets.jl) ⭐ 2 | 🐛 2 | 🌐 Julia | 📅 2023-09-13 - Generate canonical geometric benchmark datasets for TDA in Julia.
 * [JuliaTDA](https://github.com/JuliaTDA) - Organization collecting Julia packages for topological data analysis.
 * [TDAmapper.jl](https://github.com/mtsch/TDAmapper.jl) - Mapper algorithm tools for Julia.
 * [ToMATo.jl](https://github.com/mtsch/ToMATo.jl) - ToMATo clustering in Julia.
@@ -176,16 +172,26 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 * [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 653 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
 * [TopologyLayer](https://github.com/bruel-gabrielsson/TopologyLayer) ⭐ 431 | 🐛 24 | 🌐 Python | 📅 2024-02-22 - PyTorch-compatible persistent homology layers and featurization tools.
+* [TopoModelX](https://github.com/pyt-team/TopoModelX) ⭐ 350 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2026-11-20 - A Python library for topological deep learning using PyTorch, supporting simplicial, cellular, and hypergraph neural networks.
+* [TopoNetX](https://github.com/pyt-team/TopoNetX) ⭐ 289 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-11-20 - A Python library for computing and machine learning on topological domains (simplicial complexes, cell complexes, and combinatorial complexes).
+* [TopoBenchmarkX](https://github.com/pyt-team/TopoBenchmarkX) ⭐ 262 | 🐛 124 | 🌐 Python | 📅 2026-11-19 - A modular benchmarking library for topological deep learning on graphs and higher-order topological domains.
+* [tda-mapper](https://github.com/lucasimi/tda-mapper-python) ⭐ 188 | 🐛 10 | 🌐 Python | 📅 2026-05-22 - Scalable scikit-learn-compatible implementation of the Mapper algorithm with Plotly/PyVis visualizations and an interactive web app.
+* [ripser++](https://github.com/simonzhang00/ripser-plusplus) ⭐ 133 | 🐛 11 | 🌐 C++ | 📅 2023-03-16 - GPU-accelerated computation of Vietoris-Rips persistent homology using CUDA.
 * [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
 * [OpenTDA](https://github.com/outlace/OpenTDA) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2017-07-25
 * [Mapper Implementation](https://github.com/ksanjeevan/mapper-tda) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2018-07-16 - Topological data analysis for high-dimensional dataset exploration.
 * [ScTDA](https://github.com/CamaraLab/scTDA) ⭐ 53 | 🐛 5 | 🌐 Python | 📅 2018-07-12 - Tools for preprocessing, analysis, and exploration of single-cell RNA-seq data based on topological representations.
+* [teaspoon](https://github.com/TeaspoonTDA/teaspoon) ⭐ 52 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-11-06 - Comprehensive Python library for Topological Signal Processing (TSP), time-series analysis via Takens' embedding, and persistence vectorization.
+* [multipers](https://github.com/DavidLapous/multipers) ⭐ 47 | 🐛 12 | 🌐 C++ | 📅 2026-10-11 - Scikit-learn-compatible Python library for multiparameter persistent homology with PyTorch autodiff support.
 * [Knotter](https://github.com/rosinality/knotter) ⭐ 45 | 🐛 10 | 🌐 JavaScript | 📅 2020-06-06 - Implementation of the Mapper algorithm for TDA.
+* [cechmate](https://github.com/scikit-tda/cechmate) ⭐ 22 | 🐛 13 | 🌐 Python | 📅 2025-03-24 - Custom simplicial filtration constructors for Čech, Alpha, and Vietoris-Rips complexes in the Scikit-TDA ecosystem.
 * [torch-tda](https://github.com/CompTop/torch-tda) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-05-28 - Automatic differentiation utilities for topological data analysis.
 * [pyflagser](https://github.com/giotto-ai/pyflagser) ⭐ 17 | 🐛 10 | 🌐 Python | 📅 2024-05-30 - Python API for Flagser, computing homology of directed flag complexes.
+* [BATS.py](https://github.com/CompTop/BATS.py) ⭐ 6 | 🐛 2 | 🌐 C++ | 📅 2023-07-06 - Python bindings for Basic Applied Topology Subprograms supporting zigzag homology and cell complexes.
 * [Qsv](https://github.com/RottenFruits/qsv) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2016-10-24 - Data structure visualizer.
 * [quaternion-monoid-algebra](https://github.com/consigcody94/quaternion-monoid-algebra) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-10-16 - Compositional monoid algebra over quaternion state packets, with machine-checked proofs that composing a configuration with a common element preserves persistence diagrams exactly; validated on TUM RGB-D and EuRoC MAV pose streams.
 * [TopoDrift](https://github.com/FranzuBaren/topodrift) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-21 - Open benchmark for topological drift detection: evaluates persistent homology against KS/MMD/PSI on 7 regime types invisible to classical statistics.
+* [Dionysus 2](https://mrzv.org/software/dionysus2/) - Library for computing persistent homology in C++ with Python bindings.
 * [GDA Public](https://geomdata.github.io/gda-public/) - Several fundamental tools by Geometric Data Analytics Inc. [geomdata](http://www.geomdata.com).
 * [giotto-ph](https://pypi.org/project/giotto-ph/) - High-performance persistent homology backend for Vietoris-Rips filtrations.
 * [Giotto-TDA](https://giotto-ai.github.io/gtda-docs/) - A `scikit-learn`-compatible library for end-to-end topological machine learning, including Mapper, persistent homology, vectorization methods for persistence diagrams, and preprocessing components for time series, graphs, images, and point clouds ([paper](https://openreview.net/forum?id=fjQtZJOCTXf)).
@@ -225,16 +231,16 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [An algebraic topological method for multimodal brain networks comparisons](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00904/full)
 * [Complex Brain Network Analysis and Its Applications to Brain Disorders: A Survey](https://new.hindawi.com/journals/complexity/2017/8362741/)
 * [Functional Brain Network Topology Discriminates between Patients with Minimally Conscious State and Unresponsive Wakefulness Syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6463121/)
-* [Graph theory methods: applications in brain networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6136126/)
-* [Topological Methods in Brain Network Analysis](https://braintopology.wordpress.com/tda/)
 
 ### Computing Homology
 
-* [Computing Homology](https://jeremykun.com/2013/04/10/computing-homology/)
+* [Fast computation of persistent homology with small memory footprint](https://www.researchgate.net/publication/235766026_Clear_and_Compress_Computing_Persistent_Homology_in_Chunks)
 
 ### Computer Vision
 
-* [Topological Data Analysis in Computer Vision](https://www.researchgate.net/publication/338956906_Topological_data_analysis_in_computer_vision)
+* [Topological Data Analysis and Its Application in Computer Vision](https://www.researchgate.net/publication/327702816_Topological_Data_Analysis_and_Its_Application_in_Computer_Vision)
+* [Topological methods in computer vision](https://www.researchgate.net/publication/262276538_Topological_methods_in_computer_vision)
+* [Topology and Geometry in Computer Vision](https://www.springer.com/gp/book/9783540674085)
 
 ### Data Professionals
 
@@ -242,9 +248,12 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ### Deep Learning
 
+* [A Topology Layer for Machine Learning](https://arxiv.org/abs/1905.12200)
+* [Architectures of Topological Deep Learning: A Survey on Topological Neural Networks](https://arxiv.org/abs/2304.10031) - Papillon, Sanborn, Hajij, Miolane.
+* [Cellular Complex Networks: Beyond Graph Neural Networks](https://arxiv.org/abs/2010.00743) - Bodnar, Frasca, Wang, Otter, Montufar, Lio.
 * [From Topological Data Analysis to Deep Learning: No Pain No Gain](https://towardsdatascience.com/from-tda-to-dl-d06f234f51d)
 * [On Characterizing the Capacity of Neural Networks Using Algebraic Topology](https://openreview.net/forum?id=H11lAfbCW)
-* [A Topology Layer for Machine Learning](https://arxiv.org/abs/1905.12200)
+* [Topological Deep Learning: Going Beyond Graph Representations](https://arxiv.org/abs/2206.00606) - Hajij, Zamzmi, Papamarkou, et al.
 * [Using Topological Data Analysis to Understand the Behavior of Convolutional Neural Networks](https://www.ayasdi.com/blog/artificial-intelligence/using-topological-data-analysis-understand-behavior-convolutional-neural-networks/)
 
 ### Graphs and Networks
@@ -282,6 +291,11 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [Topological Data Analysis](https://researcher.watson.ibm.com/researcher/view_group.php?id=6585) - IBM.
 * [Theory and applications of topological data analysis](https://datawarrior.wordpress.com/category/tda/)
 
+### Journals and Communities
+
+* [appliedtopology.org](https://appliedtopology.org/) - Global community hub for applied and computational topology researchers with news, conferences, job postings, and software listings.
+* [Journal of Applied and Computational Topology (JACT)](https://www.springer.com/journal/41468) - Peer-reviewed Springer journal dedicated to research bridging algebraic and computational topology with data science, engineering, and science.
+
 ## Event
 
 * [Applied Algebraic Topology Research Network Calendar](https://appliedtopology.org/) - Community announcements for applied topology, TDA, workshops, schools, and related opportunities.
@@ -293,6 +307,8 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [Jan. 19 - Jan. 22 | Topological Data Analysis and Industrial Mathematics | Kyushu University, Japan](https://joint.imi.kyushu-u.ac.jp/post-21190/)
 * [Jan. 24 - Jan. 29 | Bridging Topology and Machine Learning for Data Science | BIRS, Banff, Canada](https://www.birs.ca/events/2027/5-day-workshops/27w5781)
 * [Jun. | CG Week / SoCG 2027 | Bangalore, India](https://www.computational-geometry.org/cg-week/)
+* [Jun. 28 - Jul. 2 | ATMCS 13 (Algebraic Topology: Methods, Computation and Science) | KTH, Stockholm, Sweden](https://appliedtopology.org/)
+* [Jul. 19 - Jul. 23 | SIAM Conference on Applied Algebraic Geometry (AG27) | Osnabrück, Germany](https://www.siam.org/conferences-events/siam-conferences/ag27/)
 * [Aug. 22 - Aug. 27 | Interactions of Topological Data Analysis and Combinatorial Topological Dynamics | BIRS, Banff, Canada](https://www.birs.ca/events/2027/5-day-workshops/27w5720)
 
 ### 2026
@@ -329,4 +345,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
