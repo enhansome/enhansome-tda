@@ -172,9 +172,9 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 * [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 653 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
 * [TopologyLayer](https://github.com/bruel-gabrielsson/TopologyLayer) ⭐ 431 | 🐛 24 | 🌐 Python | 📅 2024-02-22 - PyTorch-compatible persistent homology layers and featurization tools.
-* [TopoModelX](https://github.com/pyt-team/TopoModelX) ⭐ 350 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2026-11-20 - A Python library for topological deep learning using PyTorch, supporting simplicial, cellular, and hypergraph neural networks.
-* [TopoNetX](https://github.com/pyt-team/TopoNetX) ⭐ 289 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-11-20 - A Python library for computing and machine learning on topological domains (simplicial complexes, cell complexes, and combinatorial complexes).
-* [TopoBenchmarkX](https://github.com/pyt-team/TopoBenchmarkX) ⭐ 262 | 🐛 124 | 🌐 Python | 📅 2026-11-19 - A modular benchmarking library for topological deep learning on graphs and higher-order topological domains.
+* [TopoModelX](https://github.com/pyt-team/TopoModelX) ⭐ 352 | 🐛 22 | 🌐 Python | 📅 2026-11-21 - A Python library for topological deep learning using PyTorch, supporting simplicial, cellular, and hypergraph neural networks.
+* [TopoNetX](https://github.com/pyt-team/TopoNetX) ⭐ 290 | 🐛 17 | 🌐 Python | 📅 2026-11-21 - A Python library for computing and machine learning on topological domains (simplicial complexes, cell complexes, and combinatorial complexes).
+* [TopoBenchmarkX](https://github.com/pyt-team/TopoBenchmarkX) ⭐ 262 | 🐛 124 | 🌐 Python | 📅 2026-11-21 - A modular benchmarking library for topological deep learning on graphs and higher-order topological domains.
 * [tda-mapper](https://github.com/lucasimi/tda-mapper-python) ⭐ 188 | 🐛 10 | 🌐 Python | 📅 2026-05-22 - Scalable scikit-learn-compatible implementation of the Mapper algorithm with Plotly/PyVis visualizations and an interactive web app.
 * [ripser++](https://github.com/simonzhang00/ripser-plusplus) ⭐ 133 | 🐛 11 | 🌐 C++ | 📅 2023-03-16 - GPU-accelerated computation of Vietoris-Rips persistent homology using CUDA.
 * [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
@@ -345,4 +345,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
