@@ -88,6 +88,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [Computing Persistent Homology](https://geometry.stanford.edu/papers/zc-cph-05/zc-cph-05.pdf) - Zomorodian, Carlsson.
 * [Deep Learning with Topological Signatures](https://papers.nips.cc/paper/6761-deep-learning-with-topological-signatures.pdf) - Hofer, Kwitt, Niethammer, Uhl.
 * [Designing machine learning workflows with an application to topological data analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225577) - Cawi, La Rosa, Nehorai.
+* [Distinguishing cosmologies with topological analysis of 21-cm hydrogen 2D brightness fields at Cosmic Dawn](https://arxiv.org/abs/2611.18407) - Tsizh, Rudakovskyi, Tymchyshyn
 * [Geometry Helps to Compare Persistence Diagrams](https://epubs.siam.org/doi/10.1137/1.9781611974317.9) - Kerber, Morozov, Nigmetov.
 * [Introduction to the R package TDA](https://cran.r-project.org/web/packages/TDA/vignettes/article.pdf) - Fasy, Kim, Lecci, Maria, Millman, Rouvreau.
 * [Homological Algebra and Data](https://www.math.upenn.edu/~ghrist/preprints/HAD.pdf) - Robert Ghrist.
@@ -121,7 +122,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 151 | 🐛 3 | 🌐 Python | 📅 2026-11-20 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 151 | 🐛 5 | 🌐 Python | 📅 2026-11-23 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 7 | 🐛 7 | 🌐 C++ | 📅 2026-11-19 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [DONUT](https://donut.topology.rocks/) - Database of Original & Non-Theoretical Uses of Topology; a curated literature database of real-world applied topology.
@@ -133,8 +134,8 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 * [ripser++](https://github.com/simonzhang00/ripser-plusplus) ⭐ 133 | 🐛 11 | 🌐 C++ | 📅 2023-03-16 - GPU-accelerated computation of Vietoris-Rips persistent homology using CUDA.
 * [Aleph](https://github.com/Pseudomanifold/Aleph) ⭐ 108 | 🐛 5 | 🌐 C++ | 📅 2025-07-16 - Versatile C++ library for persistent homology, intersection homology, and diverse scientific data formats.
+* [Cubical Ripser](https://github.com/shizuo-kaji/CubicalRipser_3dim) ⭐ 73 | 🐛 1 | 🌐 C++ | 📅 2026-11-01 - Software for computing persistent homology of cubical complexes, especially useful for image and volume data.
 * [DIPHA](https://github.com/DIPHA/dipha) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2017-05-25 - Distributed persistent homology computation with MPI support.
-* [Cubical Ripser](https://github.com/shizuo-kaji/CubicalRipser_3dim) ⭐ 72 | 🐛 1 | 🌐 C++ | 📅 2026-11-01 - Software for computing persistent homology of cubical complexes, especially useful for image and volume data.
 * [Ctl](https://github.com/appliedtopology/ctl) ⭐ 62 | 🐛 0 | 🌐 C++ | 📅 2016-05-18 - C++11 library for building neighborhood graphs and cellular complexes, computing persistent homology over finite fields, and running parallel algorithms for homology. Can be used with C++, Python, MATLAB, and R.
 * [Flagser](https://github.com/luetge/flagser) ⭐ 42 | 🐛 3 | 🌐 C++ | 📅 2026-04-21 - Computes homology of directed flag complexes.
 * [PHAT](https://github.com/blazs/phat) ⭐ 39 | 🐛 2 | 🌐 C++ | 📅 2019-05-19 - Persistent Homology Algorithm Toolbox.
@@ -170,7 +171,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ### Python
 
-* [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 653 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
+* [KeplerMapper](https://github.com/MLWave/kepler-mapper) ⭐ 654 | 🐛 29 | 🌐 Python | 📅 2026-08-02 - TDA Mapper algorithm for visualization of high-dimensional data. It can use Scikit-Learn API-compatible clustering and scaling algorithms.
 * [TopologyLayer](https://github.com/bruel-gabrielsson/TopologyLayer) ⭐ 431 | 🐛 24 | 🌐 Python | 📅 2024-02-22 - PyTorch-compatible persistent homology layers and featurization tools.
 * [TopoModelX](https://github.com/pyt-team/TopoModelX) ⭐ 352 | 🐛 22 | 🌐 Python | 📅 2026-11-21 - A Python library for topological deep learning using PyTorch, supporting simplicial, cellular, and hypergraph neural networks.
 * [TopoNetX](https://github.com/pyt-team/TopoNetX) ⭐ 290 | 🐛 17 | 🌐 Python | 📅 2026-11-21 - A Python library for computing and machine learning on topological domains (simplicial complexes, cell complexes, and combinatorial complexes).
@@ -189,6 +190,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [pyflagser](https://github.com/giotto-ai/pyflagser) ⭐ 17 | 🐛 10 | 🌐 Python | 📅 2024-05-30 - Python API for Flagser, computing homology of directed flag complexes.
 * [BATS.py](https://github.com/CompTop/BATS.py) ⭐ 6 | 🐛 2 | 🌐 C++ | 📅 2023-07-06 - Python bindings for Basic Applied Topology Subprograms supporting zigzag homology and cell complexes.
 * [Qsv](https://github.com/RottenFruits/qsv) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2016-10-24 - Data structure visualizer.
+* [wafer-map-tda](https://github.com/janhavi-giri/wafer-map-tda) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-10-30 - Provides a Python pipeline and educational notebooks for extracting Vietoris–Rips persistence features and Mapper graphs to classify semiconductor wafer map defect patterns.
 * [quaternion-monoid-algebra](https://github.com/consigcody94/quaternion-monoid-algebra) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-10-16 - Compositional monoid algebra over quaternion state packets, with machine-checked proofs that composing a configuration with a common element preserves persistence diagrams exactly; validated on TUM RGB-D and EuRoC MAV pose streams.
 * [TopoDrift](https://github.com/FranzuBaren/topodrift) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-21 - Open benchmark for topological drift detection: evaluates persistent homology against KS/MMD/PSI on 7 regime types invisible to classical statistics.
 * [Dionysus 2](https://mrzv.org/software/dionysus2/) - Library for computing persistent homology in C++ with Python bindings.
@@ -345,4 +347,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._

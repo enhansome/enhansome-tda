@@ -85,8 +85,8 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T23:52:30Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-23T05:51:27Z",
+            "open_issues": 5,
             "owner": "merylldindin",
             "repo": "topologyx",
             "stars": 151,
@@ -209,6 +209,32 @@
             },
             {
               "node_type": "item",
+              "title": "Cubical Ripser",
+              "description": "Software for computing persistent homology of cubical complexes, especially useful for image and volume data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Persistent homology calculation for 1D (scalar time series), 2D (image), and 3D, 4D (voxel) arrays",
+                "homepage": null,
+                "id": 214946707,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-01T12:59:06Z",
+                "open_issues": 1,
+                "owner": "shizuo-kaji",
+                "repo": "CubicalRipser",
+                "stars": 73,
+                "topics": [
+                  "cubical-complex",
+                  "persistent-homology",
+                  "tda",
+                  "topological-data-analysis"
+                ]
+              },
+              "first_seen": "2026-08-28T12:40:35.234Z"
+            },
+            {
+              "node_type": "item",
               "title": "DIPHA",
               "description": "Distributed persistent homology computation with MPI support.",
               "children": [],
@@ -225,32 +251,6 @@
                 "repo": "dipha",
                 "stars": 73,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T12:40:35.234Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Cubical Ripser",
-              "description": "Software for computing persistent homology of cubical complexes, especially useful for image and volume data.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Persistent homology calculation for 1D (scalar time series), 2D (image), and 3D, 4D (voxel) arrays",
-                "homepage": null,
-                "id": 214946707,
-                "language": "C++",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-01T12:59:06Z",
-                "open_issues": 1,
-                "owner": "shizuo-kaji",
-                "repo": "CubicalRipser",
-                "stars": 72,
-                "topics": [
-                  "cubical-complex",
-                  "persistent-homology",
-                  "tda",
-                  "topological-data-analysis"
-                ]
               },
               "first_seen": "2026-08-28T12:40:35.234Z"
             },
@@ -553,7 +553,7 @@
                 "open_issues": 29,
                 "owner": "scikit-tda",
                 "repo": "kepler-mapper",
-                "stars": 653,
+                "stars": 654,
                 "topics": [
                   "data-visualization",
                   "hacktoberfest",
@@ -1049,6 +1049,34 @@
             },
             {
               "node_type": "item",
+              "title": "wafer-map-tda",
+              "description": "Provides a Python pipeline and educational notebooks for extracting Vietoris–Rips persistence features and Mapper graphs to classify semiconductor wafer map defect patterns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Persistent-homology (TDA) features, Mapper graphs and a clustering-vs-TDA study for synthetic wafer map defect patterns",
+                "homepage": null,
+                "id": 1434675202,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-10-30T18:04:51Z",
+                "open_issues": 0,
+                "owner": "janhavi-giri",
+                "repo": "wafer-map-tda",
+                "stars": 2,
+                "topics": [
+                  "aritificial-intelligence",
+                  "classification",
+                  "semiconductor-manufacturing",
+                  "topological-data-analysis",
+                  "unsupervised-machine-learning",
+                  "wafermap"
+                ]
+              },
+              "first_seen": "2026-11-23T08:54:12.219Z"
+            },
+            {
+              "node_type": "item",
               "title": "quaternion-monoid-algebra",
               "description": "Compositional monoid algebra over quaternion state packets, with machine-checked proofs that composing a configuration with a common element preserves persistence diagrams exactly; validated on TUM RGB-D and EuRoC MAV pose streams.",
               "children": [],
@@ -1447,7 +1475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T07:56:06.719Z",
+    "last_updated": "2026-11-23T08:54:12.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
@@ -1455,7 +1483,7 @@
       "id": 148160944,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-20T11:33:51Z",
+      "last_commit": "2026-11-23T05:12:02Z",
       "open_issues": 0,
       "owner": "FatemehTarashi",
       "repo": "awesome-tda",
@@ -1468,7 +1496,7 @@
         "topological-data-analysis"
       ]
     },
-    "original_repository_sha": "889cb54235477ead420af0832e1b80ad76d0e44f",
+    "original_repository_sha": "824a7652352656af6a78ba73e5d86e14c6bab223",
     "enhanced_repository": "enhansome/enhansome-tda",
     "enhanced_repository_description": null,
     "title": "Awesome TDA with stars"
