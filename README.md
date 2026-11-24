@@ -122,7 +122,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ## Tools
 
-* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 151 | 🐛 5 | 🌐 Python | 📅 2026-11-23 - Tools that may be applied to data science in general.
+* [TdaToolbox](https://github.com/Coricos/TdaToolbox) ⭐ 151 | 🐛 5 | 🌐 Python | 📅 2026-11-24 - Tools that may be applied to data science in general.
 * [RIVET](https://github.com/rivetTDA/rivet) ⭐ 80 | 🐛 48 | 🌐 C++ | 📅 2024-03-29 - Visualization and analysis of two-parameter persistent homology with a [Python API](https://github.com/rivetTDA/rivet-python/) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2024-08-29.
 * [Hera](https://github.com/anigmetov/hera) ⭐ 7 | 🐛 7 | 🌐 C++ | 📅 2026-11-19 - Software for bottleneck and Wasserstein distances between persistence diagrams.
 * [DONUT](https://donut.topology.rocks/) - Database of Original & Non-Theoretical Uses of Topology; a curated literature database of real-world applied topology.
@@ -175,8 +175,8 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [TopologyLayer](https://github.com/bruel-gabrielsson/TopologyLayer) ⭐ 431 | 🐛 24 | 🌐 Python | 📅 2024-02-22 - PyTorch-compatible persistent homology layers and featurization tools.
 * [TopoModelX](https://github.com/pyt-team/TopoModelX) ⭐ 352 | 🐛 22 | 🌐 Python | 📅 2026-11-21 - A Python library for topological deep learning using PyTorch, supporting simplicial, cellular, and hypergraph neural networks.
 * [TopoNetX](https://github.com/pyt-team/TopoNetX) ⭐ 290 | 🐛 17 | 🌐 Python | 📅 2026-11-21 - A Python library for computing and machine learning on topological domains (simplicial complexes, cell complexes, and combinatorial complexes).
-* [TopoBenchmarkX](https://github.com/pyt-team/TopoBenchmarkX) ⭐ 262 | 🐛 124 | 🌐 Python | 📅 2026-11-21 - A modular benchmarking library for topological deep learning on graphs and higher-order topological domains.
-* [tda-mapper](https://github.com/lucasimi/tda-mapper-python) ⭐ 188 | 🐛 10 | 🌐 Python | 📅 2026-05-22 - Scalable scikit-learn-compatible implementation of the Mapper algorithm with Plotly/PyVis visualizations and an interactive web app.
+* [TopoBenchmarkX](https://github.com/pyt-team/TopoBenchmarkX) ⭐ 262 | 🐛 124 | 🌐 Python | 📅 2026-11-23 - A modular benchmarking library for topological deep learning on graphs and higher-order topological domains.
+* [tda-mapper](https://github.com/lucasimi/tda-mapper-python) ⭐ 187 | 🐛 10 | 🌐 Python | 📅 2026-05-22 - Scalable scikit-learn-compatible implementation of the Mapper algorithm with Plotly/PyVis visualizations and an interactive web app.
 * [ripser++](https://github.com/simonzhang00/ripser-plusplus) ⭐ 133 | 🐛 11 | 🌐 C++ | 📅 2023-03-16 - GPU-accelerated computation of Vietoris-Rips persistent homology using CUDA.
 * [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
 * [OpenTDA](https://github.com/outlace/OpenTDA) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2017-07-25
@@ -285,7 +285,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 ### Theory and Applications of TDA
 
 * [A Guide to Data Science from mathematics](https://github.com/Hulalazz/A-_Guide_-to_Data_Sciecne_from_mathematics/blob/f42b92bb6a34f32d8c4e7afe98c9bdc889413688/TDA.md) ⭐ 69 | 🐛 0 | 🌐 HTML | 📅 2024-01-19
-* [AwesomeTDA4NLP](https://github.com/adauchendu/awesometda4nlp) ⭐ 38 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-25 - Resources for topological data analysis in NLP.
+* [AwesomeTDA4NLP](https://github.com/adauchendu/awesometda4nlp) ⭐ 39 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-25 - Resources for topological data analysis in NLP.
 * [A concrete application of Topological Data Analysis](https://towardsdatascience.com/a-concrete-application-of-topological-data-analysis-86b89aa27586)
 * [An Algebraic Geometry Perspective on Topological Data Analysis](https://sinews.siam.org/Details-Page/an-algebraic-geometry-perspective-on-topological-data-analysis)
 * [Topological Data Analysis - A Very Short Introduction](https://medium.com/@varad.deshmukh/topological-data-analysis-a-very-short-introduction-611d3238a0bd)
@@ -347,4 +347,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

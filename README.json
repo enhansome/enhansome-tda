@@ -85,7 +85,7 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T05:51:27Z",
+            "last_commit": "2026-11-24T07:49:40Z",
             "open_issues": 5,
             "owner": "merylldindin",
             "repo": "topologyx",
@@ -683,7 +683,7 @@
                 "id": 725558542,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-21T14:30:41Z",
+                "last_commit": "2026-11-23T17:53:46Z",
                 "open_issues": 124,
                 "owner": "geometric-intelligence",
                 "repo": "topobench",
@@ -718,7 +718,7 @@
                 "open_issues": 10,
                 "owner": "lucasimi",
                 "repo": "tda-mapper-python",
-                "stars": 188,
+                "stars": 187,
                 "topics": [
                   "mapper",
                   "mapper-algorithm",
@@ -1452,7 +1452,7 @@
                 "open_issues": 0,
                 "owner": "AdaUchendu",
                 "repo": "AwesomeTDA4NLP",
-                "stars": 38,
+                "stars": 39,
                 "topics": [
                   "computational-linguistics",
                   "computational-topology",
@@ -1475,7 +1475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T08:54:12.219Z",
+    "last_updated": "2026-11-24T10:49:17.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
