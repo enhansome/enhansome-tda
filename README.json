@@ -85,7 +85,7 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T07:49:40Z",
+            "last_commit": "2026-11-24T23:52:37Z",
             "open_issues": 5,
             "owner": "merylldindin",
             "repo": "topologyx",
@@ -687,7 +687,7 @@
                 "open_issues": 124,
                 "owner": "geometric-intelligence",
                 "repo": "topobench",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "cell-complex-neural-networks",
                   "cell-complexes",
@@ -1475,7 +1475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:49:17.527Z",
+    "last_updated": "2026-11-25T09:44:36.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",

@@ -175,7 +175,7 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 * [TopologyLayer](https://github.com/bruel-gabrielsson/TopologyLayer) ⭐ 431 | 🐛 24 | 🌐 Python | 📅 2024-02-22 - PyTorch-compatible persistent homology layers and featurization tools.
 * [TopoModelX](https://github.com/pyt-team/TopoModelX) ⭐ 352 | 🐛 22 | 🌐 Python | 📅 2026-11-21 - A Python library for topological deep learning using PyTorch, supporting simplicial, cellular, and hypergraph neural networks.
 * [TopoNetX](https://github.com/pyt-team/TopoNetX) ⭐ 290 | 🐛 17 | 🌐 Python | 📅 2026-11-21 - A Python library for computing and machine learning on topological domains (simplicial complexes, cell complexes, and combinatorial complexes).
-* [TopoBenchmarkX](https://github.com/pyt-team/TopoBenchmarkX) ⭐ 262 | 🐛 124 | 🌐 Python | 📅 2026-11-23 - A modular benchmarking library for topological deep learning on graphs and higher-order topological domains.
+* [TopoBenchmarkX](https://github.com/pyt-team/TopoBenchmarkX) ⭐ 263 | 🐛 124 | 🌐 Python | 📅 2026-11-23 - A modular benchmarking library for topological deep learning on graphs and higher-order topological domains.
 * [tda-mapper](https://github.com/lucasimi/tda-mapper-python) ⭐ 187 | 🐛 10 | 🌐 Python | 📅 2026-05-22 - Scalable scikit-learn-compatible implementation of the Mapper algorithm with Plotly/PyVis visualizations and an interactive web app.
 * [ripser++](https://github.com/simonzhang00/ripser-plusplus) ⭐ 133 | 🐛 11 | 🌐 C++ | 📅 2023-03-16 - GPU-accelerated computation of Vietoris-Rips persistent homology using CUDA.
 * [MoguTDA](https://github.com/stephenhky/MoguTDA) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - Numerical calculation of algebraic topology for TDA, including simplicial complexes and estimates of homology and Betti numbers.
@@ -347,4 +347,4 @@ If you know of any other tools or resources, read the [Contribution Guidelines](
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
