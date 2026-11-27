@@ -85,7 +85,7 @@
             "id": 138686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T05:37:13Z",
+            "last_commit": "2026-11-27T05:47:17Z",
             "open_issues": 5,
             "owner": "merylldindin",
             "repo": "topologyx",
@@ -683,7 +683,7 @@
                 "id": 725558542,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-25T17:04:20Z",
+                "last_commit": "2026-11-27T06:21:51Z",
                 "open_issues": 124,
                 "owner": "geometric-intelligence",
                 "repo": "topobench",
@@ -1475,7 +1475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:22:52.369Z",
+    "last_updated": "2026-11-27T09:36:11.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of topological data analysis (TDA) resources and links.",
